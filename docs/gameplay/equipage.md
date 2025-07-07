@@ -2,9 +2,9 @@
 sidebar_position: 4
 ---
 
-# 💫 Guilde
+# 💫 Équipage
 
-**Une guilde** est une communauté regroupée autour d’une survie et régie par une organisation hiérarchique, tel qu'un chef, des officiers, les membres de guilde ainsi que les recrues.
+**Un équipage** est une communauté regroupée autour d’une survie et régie par une organisation hiérarchique, tel qu'un chef, des officiers, les membres d'équipage ainsi que les recrues.
 
 ---
 
@@ -13,100 +13,98 @@ sidebar_position: 4
 En ce qui concerne les couleurs, aucune restriction ne vous est imposée. Vous pouvez donc mettre plusieurs couleurs, comme bon vous semble.
 
 :::tip Important
-Toutefois, le code _Magic_ est **interdit**. Dans le cas où vous l'utiliseriez, il vous sera demandé de modifier votre préfixe de guilde.  
-En cas de refus, une sanction et une suppression de la guilde peuvent être engendrées.
+Toutefois, le code _Magic_ est **interdit**. Dans le cas où vous l'utiliseriez, il vous sera demandé de modifier votre préfixe d'équipage.  
+En cas de refus, une sanction et une suppression de l'équipage peuvent être engendrées.
 :::
 
 ---
 
-## 🛠️ Créer une guilde
+## 🛠️ Créer un équipage
 
-Il faut tout d'abord posséder le grade **Titan**, qui est le seul grade permettant les créations de guilde.
-
-Utilisez la commande suivante pour créer une guilde :
+Utilisez la commande suivante pour créer Un équipage :
 
 ```bash
-/guilds create <nom>
+/equipage create <nom>
 ```
 
 Ensuite, pour valider ou annuler, faites :
 
 ```bash
-/guilds confirm
+/equipage confirm
 ```
 
 ou
 
 ```bash
-/guilds cancel
+/equipage cancel
 ```
 
 ---
 
-## ❓ Difficulté à créer votre guilde ?
+## ❓ Difficulté à créer votre équipage ?
 
 :::info ℹ️
-Si un message d'erreur s'affiche lorsque vous essayez de créer une guilde :
+Si un message d'erreur s'affiche lorsque vous essayez de créer un équipage :
 :::
 
 - **Vérifiez que vous n'utilisez pas de caractères spéciaux** : Les caractères spéciaux ne sont pas acceptés et peuvent bloquer la création.
 - **Vérifiez que le nom choisi n'est pas trop long** : Si c'est le cas, suivez ces étapes :
 
-1. Créez votre guilde avec un nom plus court, par exemple :
+1. Créez votre équipage avec un nom plus court, par exemple :
    ```bash
-   /g create Redstone
+   /e create Redstone
    ```
 2. Validez avec :
    ```bash
-   /g confirm
+   /e confirm
    ```
 3. Modifiez le préfixe avec :
    ```bash
-   /g prefix RedstoneTorchElec
+   /e prefix RedstoneTorchElec
    ```
 
 ---
 
-## ❌ Supprimer une guilde
+## ❌ Supprimer Un équipage
 
-Pour supprimer votre guilde, utilisez cette commande :
+Pour supprimer votre équipage, utilisez cette commande :
 
 ```bash
-/g delete
+/e delete
 ```
 
 Confirmez ou annulez avec :
 
 ```bash
-/g confirm
+/e confirm
 ```
 
 ou
 
 ```bash
-/g cancel
+/e cancel
 ```
 
 ---
 
-## 🤝 Inviter quelqu'un dans une guilde
+## 🤝 Inviter quelqu'un dans Un équipage
 
 Pour inviter quelqu'un, utilisez la commande suivante :
 
 ```bash
-/g invite <pseudo>
+/e invite <pseudo>
 ```
 
 Le joueur invité doit accepter avec :
 
 ```bash
-/g join <NomDeLaGuilde>
+/e join <équipage>
 ```
 
 ou
 
 ```bash
-/g accept <NomDeLaGuilde>
+/e accept <équipage>
 ```
 
 ---
@@ -114,13 +112,13 @@ ou
 ## ⚔️ Quels sont les avantages ?
 
 :::tip 🏆
-Créer une guilde vous permet de montrer votre coopération avec vos amis, de former un groupe de joueurs économiquement ou en combat.
+Créer Un équipage vous permet de montrer votre coopération avec vos amis, de former un groupe de joueurs économiquement ou en combat.
 :::
 
 Vous pouvez également activer un chat privé entre les membres avec :
 
 ```bash
-/g chat
+/e chat
 ```
 
 Désactivez-le avec la même commande.
@@ -129,7 +127,7 @@ Désactivez-le avec la même commande.
 
 ## 📈 Promouvoir et rétrograder
 
-En tant que chef, vous pouvez gérer la hiérarchie de votre guilde.
+En tant que chef, vous pouvez gérer la hiérarchie de votre équipage.
 
 **Rangs disponibles :**
 - Chef 👑
@@ -140,80 +138,80 @@ En tant que chef, vous pouvez gérer la hiérarchie de votre guilde.
 Pour promouvoir un joueur, utilisez :
 
 ```bash
-/g promote <pseudo>
+/e promote <pseudo>
 ```
 
 Pour rétrograder un joueur, utilisez :
 
 ```bash
-/g demote <pseudo>
+/e demote <pseudo>
 ```
 
 Pour expulser un joueur, utilisez :
 
 ```bash
-/g kick <pseudo>
+/e kick <pseudo>
 ```
 
 ---
 
-## 🏠 Gérer le spawn de la guilde
+## 🏠 Gérer le spawn de l'équipage
 
-Pour définir un home de guilde, placez-vous à l'endroit souhaité et utilisez :
+Pour définir un home d'équipage, placez-vous à l'endroit souhaité et utilisez :
 
 ```bash
-/g sethome
+/e sethome
 ```
 
 Supprimez-le avec :
 
 ```bash
-/g delhome
+/e delhome
 ```
 
-Téléportez-vous au home de guilde avec :
+Téléportez-vous au home d'équipage avec :
 
 ```bash
-/g home
+/e home
 ```
 
 ---
 
-## 📋 Les informations de guilde
+## 📋 Les informations de l'équipage
 
-Utilisez la commande suivante pour afficher les infos de votre guilde :
+Utilisez la commande suivante pour afficher les infos de votre équipage :
 
 ```bash
-/g info
+/e info
 ```
 
 Vous verrez :
 - **Le lingot d'or 🪙** : indique la somme dans la banque.
 - **Le casque en fer ⛑️** : affiche les membres et leurs connexions.
 - **L'émeraude 💎** : montre le statut (public/privé).
-- **Le lit 🛏️** : home de guilde.
+- **Le lit 🛏️** : home d'équipage.
 - **Le coffre 🧰** : stockage commun.
 
 ---
 
-## 🚀 Upgrade sa guilde
+## 🚀 Upgrade un équipage
 
-Vous pouvez augmenter le niveau de votre guilde pour plus d'avantages :
+Vous pouvez augmenter le niveau de votre équipage pour plus d'avantages :
 
 - **Augmentation du nombre de membres**.
-- **Accès à plus de coffres de guilde**.
+- **Accès à plus de coffres d'équipage**.
 
 Pour upgrader, déposez la somme nécessaire avec :
 
 ```bash
-/g bank deposit <somme>
+/e bank deposit <somme>
 ```
 
 Puis faites :
 
 ```bash
-/g upgrade
-/g confirm
+/e upgrade
+/e confirm
 ```
 
 ### 📈 Passage au niveau 2
@@ -238,13 +236,13 @@ Puis faites :
 
 Voici quelques commandes pratiques :
 
-- `/g bank balance` → Affiche l'argent de la guilde.
-- `/g bank deposit <montant>` → Dépose de l'argent dans la banque.
-- `/g bank withdraw <montant>` → Retire de l'argent.
-- `/g vault` → Ouvre le coffre commun.
-- `/g status` → Change le statut (public/privé).
-- `/g list` → Liste des guildes.
+- `/e bank balance` → Affiche l'argent de l'équipage.
+- `/e bank deposit <montant>` → Dépose de l'argent dans la banque.
+- `/e bank withdraw <montant>` → Retire de l'argent.
+- `/e vault` → Ouvre le coffre commun.
+- `/e status` → Change le statut (public/privé).
+- `/e list` → Liste des équipages.
 
 :::tip
-Toutes les commandes peuvent être abrégées avec `/g`.
+Toutes les commandes peuvent être abrégées avec `/e`.
 :::
