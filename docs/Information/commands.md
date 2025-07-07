@@ -96,28 +96,28 @@ Voici la liste complète des commandes disponibles sur le serveur VikingCraft. C
 
 ---
 
-## Commandes Guildes (Grade Panda requis) 🐼
-- **/g create** : Créer une guilde.
-- **/g delete** : Supprime votre guilde.
-- **/g prefix &lt;nom&gt;** : Change le préfix de guilde.
-- **/g sethome** : Définit le home de la guilde.
-- **/g delhome** : Supprime le home de guilde.
-- **/g home** : Téléporte au home de la guilde.
-- **/g invite &lt;joueur&gt;** : Invite un joueur dans votre guilde.
-- **/g accept &lt;joueur&gt;** : Accepte une invitation de guilde.
-- **/g leave** : Quitte votre guilde actuelle.
-- **/g info** : Affiche les informations de guilde.
-- **/g boot &lt;joueur&gt;** : Kick un joueur de la guilde.
-- **/g list** : Affiche la liste des guildes.
-- **/g members** : Ouvre le menu des membres de la guilde.
-- **/g promote** : Promouvoir un membre de la guilde.
-- **/g status** : Change la guilde en public ou privé.
-- **/g gc** : Active le chat de guilde.
-- **/g ac** : Active le chat d'alliance de guilde.
-- **/g vault** : Ouvre le coffre de guilde.
-- **/g buff** : Ouvre le menu buff.
-- **/g bank balance** : Affiche l'argent dans la banque de guilde.
-- **/g bank withdraw &lt;nombre&gt;** : Retirer de l'argent de la banque de guilde.
-- **/g bank deposit &lt;nombre&gt;** : Déposer de l'argent dans la banque de guilde.
-- **/g upgrade** : Améliore ta guilde.
+## Commandes Équipage
+- **/e create** : Créer un équipage.
+- **/e delete** : Supprime votre équipage.
+- **/e prefix &lt;nom&gt;** : Change le préfixe d’équipage.
+- **/e sethome** : Définit le home de l’équipage.
+- **/e delhome** : Supprime le home d’équipage.
+- **/e home** : Téléporte au home de l’équipage.
+- **/e invite &lt;joueur&gt;** : Invite un joueur dans votre équipage.
+- **/e accept &lt;joueur&gt;** : Accepte une invitation d’équipage.
+- **/e leave** : Quitte votre équipage actuel.
+- **/e info** : Affiche les informations d’équipage.
+- **/e boot &lt;joueur&gt;** : Kick un joueur de l’équipage.
+- **/e list** : Affiche la liste des équipages.
+- **/e members** : Ouvre le menu des membres de l’équipage.
+- **/e promote** : Promouvoir un membre de l’équipage.
+- **/e status** : Change l’équipage en public ou privé.
+- **/e gc** : Active le chat d’équipage.
+- **/e ac** : Active le chat d’alliance d’équipage.
+- **/e vault** : Ouvre le coffre d’équipage.
+- **/e buff** : Ouvre le menu buff.
+- **/e bank balance** : Affiche l'argent dans la banque d’équipage.
+- **/e bank withdraw &lt;nombre&gt;** : Retirer de l'argent de la banque d’équipage.
+- **/e bank deposit &lt;nombre&gt;** : Déposer de l'argent dans la banque d’équipage.
+- **/e upgrade** : Améliore votre équipage.
 
