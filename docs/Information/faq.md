@@ -40,13 +40,13 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 ---
 
 ## 🌍 Difficulté des serveurs
-- **Difficulté** : Normal.
+- **Difficulté** : Normale.
 
 ---
 
 ## 🏠 Claims
 - **Hauteur du claim** : De -64 à 320 (couvre toute la coordonnée Y).
-- **Disparition d'un claim** : Possible après 2 mois d'inactivité du chef et des admins.
+- **Disparition d'un claim** : Possible après 2 mois d'inactivité du chef **et des admins du claim.**
 
 ---
 
@@ -56,19 +56,20 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 ---
 
 ## 🏡 Homes pour citoyens
-- **Nombre de homes** : 5 par défaut, possibilité d'en obtenir plus avec un grade.
+- **Nombre de homes** : 5 par défaut, possibilité d'en obtenir plus avec un grade. (+ d'informations en jeu avec `/boutique` → Grades)
 
 ---
 
 ## 🚫 Double comptes
 :::tip ⚠️
-- **Autorisation** : Non, sauf pour les membres d'une même famille jouant sur la même IP. Preuve via ticket.
-  :::
+- **Autorisation** : Non, sauf pour les membres d'un même foyer jouant sur la même IP. Preuve via ticket. Une vérification peut être faite par les Staffs.
+  - Il est **interdit** de faire les évents sur plusieurs comptes dans le but de multiplier les récompenses afin des transférer sur le compte principal.
+
 
 ---
 
 ## ⛏️ Monde minage
-- **Disponible** : Via la commande `/rtp`.
+- **Disponible** : Via la commande `/rtp`. Le monde minage est réinitialisé tous les vendredis.
 
 ---
 
@@ -120,23 +121,24 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ## 🧱 Blocs claimables
 :::tip 🔒
-- **Limite par défaut** : Très élevée, possibilité d'augmenter jusqu'à 1,5 million avec un pack ville.
+- **Limite par défaut** : 250k blocs, possibilité d'augmenter jusqu'à 1 million avec le grade **Viking** et 1.5 Million avec `L'avantage Claim Géant` au `/boutique`→ Divers
   :::
 
 ---
 
 ## 💤 AFK
-- **Inactivité** : Mode AFK activé après 30 minutes d'inactivité.
+- **Inactivité** : Mode AFK activé après 30 minutes d'inactivité. (Téléportation à la zone AFK du spawn)
+  - Le compte Premium en jeu permet l'annulation de cette téléportation.
 
 ---
 
 ## 🛡️ Grief
-- **Définition** : Construction ou claim à moins de 100 blocs d'un autre joueur sans permission.
+- **Définition** : Construction / Destruction ou claim à moins de 100 blocs d'un claim d'un autre joueur sans sa permission.
 
 ---
 
 ## ⚔️ TP-Kill
-- **Définition** : Tuer un joueur hors des zones PvP ou Duel sans son consentement.
+- **Définition** : Tuer un joueur hors des zones PvP ou Duel sans son consentement avec ou sans utilisation de machines/pièges.
 
 ---
 
@@ -154,5 +156,5 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ## 🎨 Pack de texture
 :::tip 🖼️
-- **Problème de téléchargement** : Allez dans Multijoueur, sélectionnez le serveur, cliquez sur "Modifier", puis activez "Pack de ressource".
+- **Problème de téléchargement** : Assurez vous d'être connecté avec la bonne version du jeu. Allez dans Multijoueur, sélectionnez le serveur, cliquez sur "Modifier", puis activez "Pack de ressource".
   :::
