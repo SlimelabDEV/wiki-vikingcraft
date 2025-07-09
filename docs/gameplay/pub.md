@@ -6,7 +6,7 @@ sidebar_position: 13
 
 Bienvenue dans le guide des Pub ! Ce guide vous expliquera comment utiliser les commandes Pub.
 
-![Image de Mariage](/img/pub/pub.png)
+![Image de Pub](/img/pub/pub.png)
 
 ---
 
