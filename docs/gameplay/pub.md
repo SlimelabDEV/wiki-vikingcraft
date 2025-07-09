@@ -5,6 +5,9 @@ sidebar_position: 13
 # 📜 Pub
 
 Bienvenue dans le guide des Pub ! Ce guide vous expliquera comment utiliser les commandes Pub.
+
+![Image de Pub](/img/pub/pub.png)
+
 ---
 
 ## 💻 Commandes Pub
