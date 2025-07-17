@@ -49,7 +49,7 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 | **/feed**                   | ❌      | ❌ | ✅ | ✅ | ✅              |
 | **/skull**                  | ❌      | ❌ | ✅ | ✅ | ✅              |
 | **/repair**                 | ❌      | ❌ | ✅ | ✅ | ✅              |
-| **/speedfly**               | ❌      | ❌ | ❌ | ✅ | ✅              |
+| **/speedfly**               | ❌      | ❌ | ✅ | ✅ | ✅              |
 | **/glow**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/four**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/tags**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
