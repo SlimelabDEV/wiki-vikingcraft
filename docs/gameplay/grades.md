@@ -13,7 +13,7 @@ Nous sommes entièrement financés et soutenus par des joueurs comme vous. Chaqu
 Découvrez les différents grades disponibles sur le serveur et les avantages qu'ils apportent :
 
 1. **🟢 Naufragé (grade de base)**  
-   *Le grade de départ pour tous les joueurs.*
+   *Le grade de départ pour tous les nouveaux joueurs.*
 
 2. **🔭 Explorateur**  
    *Un grade qui vous donne de nouveaux privilèges.*
@@ -34,35 +34,35 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 
 ### 🚀 Voici toutes les commandes disponibles pour chaque grade: 
 
-| Commande/Avantage          | Naufragé | Explorateur | Guerrier | Viking | Viking+         |
+| Commandes/Avantages          | Naufragé | Explorateur | Guerrier | Viking | Viking+         |
 |----------------------------|---------|---|---|---|----------------|
 | **Fly**                     | ❌      | ✅ | ✅ | ✅ | ✅ + au spawn   |
 | **Temps de fly nether**      | Aucun   | 1h/jour | 1h/jour | 1h/jour | 1h/jour        |
 | **Surface de claims**        | 250 000 | 500 000 | 750 000 | 1 000 000 | 1 000 000      |
-| **/back**                   | ❌      | ✅ | ✅ | ✅ | ✅              |
-| **/emote**                  | ❌      | ✅ | ✅ | ✅ | ✅              |
+| **/back**                   | ✅      | ✅ | ✅ | ✅ | ✅              |
 | **/craft**                  | ❌      | ✅ | ✅ | ✅ | ✅              |
-| **/ptime**                  | ❌      | ❌ | ❌ | ✅ | ✅              |
+| **/ptime**                  | ❌      | ✅ | ✅ | ✅ | ✅              |
 | **/top**                    | ❌      | ✅ | ✅ | ✅ | ✅              |
 | **/hat**                    | ❌      | ✅ | ✅ | ✅ | ✅              |
-| **Récupérer spawner**        | ❌      | ❌ | ✅ | ✅ | ✅              |
-| **/speedfly**               | ❌      | ❌ | ❌ | ✅ | ✅              |
-| **/ext**                    | ❌      | ❌ | ❌ | ✅ | ✅              |
+| **Récupérer spawner**       | ❌      | ✅ | ✅ | ✅ | ✅             |
+| **/ext**                    | ❌      | ❌ | ✅ | ✅ | ✅              |
 | **/feed**                   | ❌      | ❌ | ✅ | ✅ | ✅              |
 | **/skull**                  | ❌      | ❌ | ✅ | ✅ | ✅              |
-| **/repair**                 | ❌      | ❌ | ✅ | ✅ + /repairall | ✅ + /repairall |
-| **/glow**                   | ❌      | ❌ | ✅ | ✅ | ✅              |
+| **/repair**                 | ❌      | ❌ | ✅ | ✅ | ✅              |
+| **/speedfly**               | ❌      | ❌ | ✅ | ✅ | ✅              |
+| **/glow**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/four**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/tags**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
-| **/emoji**                  | ❌      | ❌ | ❌ | ✅ | ✅              |
-| **/anvil**                  | ❌      | ❌ | ❌ | ✅ | ✅              |
-| **/stonecutter**            | ❌      | ❌ | ❌ | ✅ | ✅              |
-| **/smithingtable**          | ❌      | ❌ | ❌ | ✅ | ✅              |
-| **/grindstone**             | ❌      | ❌ | ❌ | ✅ | ✅              |
-| **/loom**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
-| **/cartographytable**       | ❌      | ❌ | ❌ | ✅ | ✅              |
+| **/repairall**              | ❌      | ❌ | ❌ | ❌ | ✅              |
+| **/anvil**                  | ❌      | ❌ | ❌ | ❌ | ✅              |
+| **/stonecutter**            | ❌      | ❌ | ❌ | ❌ | ✅              |
+| **/smithingtable**          | ❌      | ❌ | ❌ | ❌ | ✅              |
+| **/grindstone**             | ❌      | ❌ | ❌ | ❌ | ✅              |
+| **/loom**                   | ❌      | ❌ | ❌ | ❌ | ✅              |
+| **/cartographytable**       | ❌      | ❌ | ❌ | ❌ | ✅              |
+| **/emoji**                  | ❌      | ❌ | ❌ | ❌ | ✅              |
 | **Items au /ah**             | 25      | 50 | 75 | 100 | 100            |
 | **Nombre de home**           | 5       | 15 | 25 | 50 | 50             |
-| **Coffre de shop**           | 10      | 20 | 25 | 25 | 25             |
+| **Coffre de shop**           | 10      | 20 | 20 | 20 | 20             |
 | **Salaire par heure**        | 50      | 100 | 150 | 200 | 200            |
-| **Kit**                     | Kit Naufragé | Kit Explorateur | Kit Guerrier | Kit Viking | Kit Viking+      |
+| **Kist**                     | **Kit Naufragé** | **Kit Explorateur** | **Kit Guerrier** | **Kit Viking** | **Kit Viking**     |
