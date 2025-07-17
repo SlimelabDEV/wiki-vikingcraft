@@ -10,15 +10,35 @@ Ce site a pour objectif de regrouper toutes les informations essentielles pour b
 
 ---
 
-## 📖 Comment utiliser ce wiki ?
+## 📖 Menu Rapide
 
-- Naviguez via le **menu à gauche** pour consulter les différentes catégories
-- Utilisez la barre de recherche en haut à droite pour trouver rapidement une information
-- Cliquez sur les liens internes pour approfondir chaque mécanique
+
+
+| <ins>[***🔰 Règlement VikingCraft***](https://wiki.vikingcraft.fr/docs/Information/rules)  <ins>      |||| [**✏️Commandes**](https://wiki.vikingcraft.fr/docs/Information/commands)    |[**☎️ FAQ**](https://wiki.vikingcraft.fr/docs/Information/faq)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [**🪓 Compétences & Salaires**](https://wiki.vikingcraft.fr/docs/gameplay/skills)        | [**📚 Enchantements**](https://wiki.vikingcraft.fr/docs/gameplay/enchantments) | [**💫 Équipage**](https://wiki.vikingcraft.fr/docs/gameplay/equipage)    | [**🏁 Les Quêtes**](https://wiki.vikingcraft.fr/docs/gameplay/quest)  | [**🛡️ Les claims**](https://wiki.vikingcraft.fr/docs/gameplay/claim)  | [**🐲L'Enderdragon**](https://wiki.vikingcraft.fr/docs/gameplay/enderdragon)      |
+[**👑 Grades**](https://wiki.vikingcraft.fr/docs/gameplay/grades)    | [**🏡 Hotel des ventes**](https://wiki.vikingcraft.fr/docs/gameplay/hdv)| [**🎰 Le Casino**](https://wiki.vikingcraft.fr/docs/gameplay/shop) | [**🔒 Les Privates**](https://wiki.vikingcraft.fr/docs/gameplay/private) | [**💘 Mariage**](https://wiki.vikingcraft.fr/docs/gameplay/marry) | [**📜 Pub**](https://wiki.vikingcraft.fr/docs/gameplay/pub)|
+| [**🛠️ Les Trieurs**](https://wiki.vikingcraft.fr/docs/divers/sorters)    | [**🌟 La Popularité**](https://wiki.vikingcraft.fr/docs/divers/popularity)| [**🛒 Les Shops**](https://wiki.vikingcraft.fr/docs/divers/casino) | [**🎫 Les Votes**](https://wiki.vikingcraft.fr/docs/divers/votes) | [**🎉 Événement Piñata**](https://wiki.vikingcraft.fr/docs/divers/pinata) | [**💤 Zone AFK**](https://wiki.vikingcraft.fr/docs/divers/afk)|
+
+
+
+---
+## 📖 Comment nous rejoindre?
+
+Il suffit de rajouter le serveur à votre liste Multi-Joueurs:
+
+En version Java:
+
+![Play Java](/img/divers/PlayJava.png)
+
+En version Bedrock:
+
+![Play Bedrock](/img/divers/PlayBedrock.png)
 
 ---
 
-## 🧠 Contribuer au wiki
+
+## 🧠 Comment contribuer au wiki de VikingCraft
 
 Ce wiki est **ouvert aux contributions de la communauté**.  
 Si vous repérez une erreur, ou souhaitez ajouter une page :
