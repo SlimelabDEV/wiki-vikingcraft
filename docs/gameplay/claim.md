@@ -49,6 +49,13 @@ Utilisez **/claim border** pour afficher les contours de votre région. Faites *
 
 ---
 
+## 🏙️ Le Pack Ville
+
+Vous pouvez également acheter un **Pack Ville** dans la boutique pour **1000 perles**.  
+Ce pack vous donne accès à une **région de 1,5 million de blocs**  — idéal pour les projets de grande envergure comme les villes.
+
+---
+
 ## 📜 Commandes disponible :
 - **/claim** : Ouvre le menu de gestion de région.
 - **/claim create** : Ouvre le menu de gestion de région.

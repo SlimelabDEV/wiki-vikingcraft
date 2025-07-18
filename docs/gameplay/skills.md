@@ -48,13 +48,30 @@ Il n'y a pas de secret, le farm est la clé pour améliorer vos compétences.
 
 ---
 
-## Gagner de l'Argent via les Skills
-
+Gagner de l'Argent via les Skills
 Petite nouveauté ! Nous pouvons désormais gagner de l'argent grâce aux skills ! Depuis la mise à jour de fin mars 2024, les skills peuvent nous rapporter de l'argent, juste en jouant normalement. Voici un exemple :
 
-Lorsque vous augmentez votre skill de **Mineur**, vous gagnez des niveaux (disponibles dans le `/skill`).
+Lorsque vous augmentez votre skill de Mineur, vous gagnez des niveaux (disponibles dans le /skill).
 
-Dans cet exemple, vous êtes bientôt niveau 75, ce qui vous fera gagner un bonus de **10% sur le Salaire Mineur** et un bonus direct de **22600$** pour le palier. Mais ce n'est pas tout ! Le salaire est également versé à chaque action, comme miner de la roche, fondre des minerais, etc. Ce salaire peut être augmenté via les icônes en bas du `/skill`.
+Dans cet exemple, vous êtes bientôt niveau 75, ce qui vous fera gagner un bonus de 10% sur le Salaire Mineur et un bonus direct de 22600$ pour le palier. Mais ce n'est pas tout ! Le salaire est également versé à chaque action, comme miner de la roche, fondre des minerais, etc. Ce salaire peut être augmenté via les icônes en bas du /skill.
+
+💰 Comment est calculé le salaire ?
+Voici les éléments qui la composent :
+
+arr désigne la fonction qui prend en entrée un prix en $ et en ressort l’arrondi au centime près
+
+b est le salaire de base de l’action rémunérée, en $
+
+C est le bonus de salaire lié aux compétences
+
+R est le bonus de réputation
+
+E est le bonus d’événements, comme ceux actifs à 16h et 20h
+
+💡 Les bonus C, R et E sont exprimés sous forme décimale : par exemple 80% devient 0.8.
+
+La formule complète est donc :
+Salaire final = arr(b * (1 + R) * (1 + C + E))
 
 ---
 
