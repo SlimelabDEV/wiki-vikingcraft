@@ -111,6 +111,14 @@ Interdire le spawn des crabes - Chercher les silverfish et cliquez pour changer 
 
 ---
 
+## ⚙ Limite de claims par grade :
+
+|           | Naufragé | Explorateur | Guerrier | Viking | Viking+         |
+|:----------------------------:|:---------:|:---:|:---:|:---:|:----------------:|
+| **Surface de claims**        | 250 000 | 500 000 | 750 000 | 1 000 000 | 1 000 000      |
+
+
+---
 ![Attention](/img/claim/warning.png)
 
 :::danger
