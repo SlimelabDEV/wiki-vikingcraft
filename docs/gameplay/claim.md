@@ -118,6 +118,20 @@ Interdire le spawn des crabes - Chercher les silverfish et cliquez pour changer 
 
 ---
 
+## ⚙ Limite de claims par grade :
+
+|           | Naufragé | Explorateur | Guerrier | Viking | Viking+         |
+|:----------------------------:|:---------:|:---:|:---:|:---:|:----------------:|
+| **Surface de claims**        | 250 000 | 500 000 | 750 000 | 1 000 000 | 1 000 000      |
+
+
+---
+
+## 🏙️ Le Pack Ville
+Vous pouvez également acheter un Pack Ville dans la boutique pour 1000 perles.
+Ce pack vous donne accès à une région de 1,5 million de blocs — idéal pour les projets de grande envergure comme les villes.
+
+---
 ![Attention](/img/claim/warning.png)
 
 :::danger
