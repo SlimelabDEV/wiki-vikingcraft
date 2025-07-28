@@ -58,12 +58,11 @@ Si vous avez déjà un compte, vous pouvez directement accéder à cette étape
 
 En jeu, utilisez la commande `/vote` pour voir votre nombre de points de vote et accéder à la boutique de points de vote.
 
-- **/vote take all** pour convertir tous vos points en **clés de vote**.
-- **/vote take &lt;nombre&gt;** pour récupérer un certain nombre de clés.
+- **/votetakeall** pour convertir tous vos points en **clés de vote**.
+- Vous pouvez également acheter 1, 10 ou 50 clés dans le **/vote → Boutique** en  échange de points de vote.
 
-Vous avez deux solutions :
+Vous pouvez également :
 
-- Convertir vos points en clés de vote avec **/vote take all**
 - Acheter des avantages (commandes, spawners, etc.) avec vos points dans la boutique de vote via **/vote**
 
 ---
