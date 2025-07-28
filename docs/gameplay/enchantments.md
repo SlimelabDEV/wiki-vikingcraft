@@ -104,7 +104,7 @@ Grâce à elle, vous pourrez augmenter le taux de réussite.
 |||||||
 | <ins>*Explosif (arbalète) I*</ins>  | ![Arbalète](/img/divers/Crossbow.png)       | Chance de faire exploser une TNT sur la cible      | 7s       | 20%            | Toucher un mob ou joueur                                          |
 | <ins>*Explosif (arbalète) II*</ins> | ![Arbalète](/img/divers/Crossbow.png)       | Chance de faire exploser une TNT sur la cible      | 8s       | 30%            | Toucher un mob ou joueur                                          |
-| <ins>*Explosif (arbalète) III*<ins>| ![Arbalète](/img/divers/Crossbow.png)       | Chance de faire exploser une TNT sur la cible      | 8s       | 40%            | Toucher un mob ou joueur                                          |
+| <ins>*Explosif (arbalète) III*</ins>| ![Arbalète](/img/divers/Crossbow.png)       | Chance de faire exploser une TNT sur la cible      | 8s       | 40%            | Toucher un mob ou joueur                                          |
 | <ins>*Explosif (arbalète) IV*</ins> | ![Arbalète](/img/divers/Crossbow.png)       | Chance de faire exploser une TNT sur la cible      | 8s       | 50%            | Toucher un mob ou joueur                                          |
 | <ins>*Explosif (arbalète) V*</ins> | ![Arbalète](/img/divers/Crossbow.png)       | Chance de faire exploser une TNT sur la cible      | 9s       | 60%            | Toucher un mob ou joueur                                          |
 |||||||
