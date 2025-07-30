@@ -65,4 +65,4 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 | **Nombre de home**           | 5       | 15 | 25 | 50 | 50             |
 | **Coffre de shop**           | 10      | 20 | 20 | 20 | 20             |
 | **Salaire par heure**        | 50      | 100 | 150 | 200 | 200            |
-| **Kist**                     | **Kit Naufragé** | **Kit Explorateur** | **Kit Guerrier** | **Kit Viking** | **Kit Viking**     |
+| **Kit**                     | **Kit Naufragé** | **Kit Explorateur** | **Kit Guerrier** | **Kit Viking** | **Kit Viking**     |
