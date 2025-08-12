@@ -63,7 +63,7 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 ## 🚫 Double comptes
 :::tip ⚠️
 - **Autorisation** : Non, sauf pour les membres d'un même foyer jouant sur la même IP. Preuve via ticket. Une vérification peut être faite par les Staffs.
-  - Il est **interdit** de faire les évents sur plusieurs comptes dans le but de multiplier les récompenses afin des transférer sur le compte principal.
+- Il est **interdit** de faire les évents sur plusieurs comptes dans le but de multiplier les récompenses afin des transférer sur le compte principal.
 :::
 
 ---
