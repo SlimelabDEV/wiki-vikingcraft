@@ -13,6 +13,12 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ---
 
+## ⚙ Ticks et Chunck
+- **Chunck distance** : 5 (Inclus celui où se trouve le joueur).
+- **Tick vitesse** : 20tick/sec 
+
+---
+
 ## 🐾 Limites pour les monstres et animaux
 - **Limite par chunk** : 15 entités par groupe.
     - **Monstres** : Zombies, araignées, endermans, squelettes, etc.
