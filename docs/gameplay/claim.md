@@ -45,95 +45,63 @@ Le prix du claim est calculé en fonction de sa taille.
 ---
 
 ## 🔧 Gérer votre région :
-Utilisez **/claim border** pour afficher les contours de votre région. Faites **/claim** ou **/flag** pour ouvrir le menu de gestion. Vous pouvez aussi ajouter des membres avec **/claim addmember &lt;joueur&gt;**.
+Utilisez **/rp border** pour afficher les contours de votre région. Faites **/claim** ou **/flag** pour ouvrir le menu de gestion. Vous pouvez aussi ajouter des membres avec **/rp addmember &lt;joueur&gt;**.
 
 ---
 
-## 🏙️ Le Pack Ville
-
-Vous pouvez également acheter un **Pack Ville** dans la boutique pour **1000 perles**.  
-Ce pack vous donne accès à une **région de 1,5 million de blocs**  — idéal pour les projets de grande envergure comme les villes.
-
----
-
-## 📜 Commandes disponible :
-- **/claim** : Ouvre le menu de gestion de région.
-- **/claim create** : Ouvre le menu de gestion de région.
-- **/claim info** : Affiche les informations sur la région.
-- **/claim border** : Affiche la bordure de la région.
-- **/claim flag** : Ouvre le menu de gestion des flags.
-- **/claim addadmin &lt;joueur&gt;** : Ajouter un joueur en tant qu'admin de la région.
-- **/claim addmember &lt;joueur&gt;** : Ajouter un joueur en tant que membre de la région.
-- **/claim removeadmin &lt;joueur&gt;** : Retirer un joueur en tant qu'admin.
-- **/claim removemember &lt;joueur&gt;** : Retirer un jopueur de la région.
-- **/claim msg &lt;message/off&gt;** : Modifier le message de bienvenue de la région.
-- **/claim blocklimit** : Affiche votre limite de blocs.
-- **/claim kick &lt;joueur&gt;** : Kick un joueur de la région.
-- **/claim rename &lt;nom&gt;** : Changer le nom de votre région.
-- **/claim list** : Affiche la liste de toutes vos régions.
-- **/claim chat &lt;message&gt;** : Parler à un joueur de votre région.
-- **/claim near** : Affiche les régions proches de vous.
+## 📜 Commandes de région :
+- **/claim** : Ouvre le menu de gestion de région
+- **/rp tuto** : Tutoriel pour créer une région
+- **/rp addadmin &lt;joueur&gt;** : Ajouter un joueur en tant qu'admin de la région
+- **/rp addmember &lt;joueur&gt;** : Ajouter un joueur en tant que membre de la région
+- **/rp msg &lt;message/off&gt;** : Modifier le message de bienvenue de la région
+- **/rp kick &lt;joueur&gt;** : Exclure un joueur de la région
+- **/rp rename &lt;nom&gt;** : Renommer votre région
+- **/rp list** : Affiche la liste de toutes vos régions
+- **/rp removeadmin &lt;joueur&gt;** : Retirer un joueur en tant qu'admin
+- **/rp removemember &lt;joueur&gt;** : Retirer un membre de la région
+- **/rp limit** : Affiche le nombre de blocs claim et la limite
 
 ---
+## Les flags
+Utilisez la commande **/flags** pour paramétrer votre claim. Voici les paramètres disponibles :
 
-## 📜 Flags disponible :
-- **Accès aux effets** : Permet d'interdire les effets comme les effets de potion.
-- **Accès aux fly** : Permet d'empêcher les joueurs d'utiliser la capacité de vol ( Fly ).
-- **Accès au /home et /sethome** : Permet d'empêcher les joueurs d'utiliser les commandes de homes.
-- **Casser et placer les spawners** : Permet d'autoriser les joueurs de casser et placer les spawners.
-- **Accès aux boutons, leviers, plaques**
-- **Pousse du blé/carotte ect...**
-- **Accès aux coffres**
-- **Accès aux portes/trappes/portillons**
-- **Dégâts du feu**
-- **Écoulement de l'eau ou lave**
-- **Destruction par de l'eau ou lave**
-- **Gravité des blocs**
-- **Formation de glace avec des bottes**
-- **Disparition des feuilles**
-- **Accès aux wagonnets**
-- **Accès aux interactions** : Permet d'autoriser l'interaction avec les villageois et animaux.
-- **Spawn des animaux** : Vous pouvez choisir les animaux que vous souhaitez voir apparaître dans cette région!
-  
-:::tip
-Interdire le spawn des fantômes - Chercher les fantômes et cliquez pour changer le statut à &lt;Non&gt;
-:::
+- **La balise** : _Accès aux effets_ → Permet d'interdire les effets.
+- **La plume** : _Accès au fly_ → Permet d'interdire toutes les capacités de vol.
+- **Le lit** : _Accès au /home et /sethome_ → Permet d'empêcher les joueurs d'utiliser les commandes de home.
+- **Le spawner** : _Casser et placer les spawners_ → Permet d'autoriser les joueurs de casser et placer les spawners.
+- **Le bouton** : _Accès aux bouton, leviers et plaques de pression_
+- **Le blé** : _Pousse du blé/carottes etc_
+- **Le coffre** : _Accès aux coffres_ par les joueurs non membres du claim.
+- **La porte** : _Accès aux portes, trappes et portillons_ par les joueurs non membres du claim.
+- **Le briquet** : _Dégâts du feu_
+- **Le seau d'eau** : _Ecoulement de l'eau ou lave_
+- **Le seau de lave** : _Destruction par de l'eau ou lave_
+- **Le sable** : _Gravité des blocs_
+- **Les bottes** : _Formation de glace avec des bottes_
+- **Le feuillage** : _Disparition des feuilles_
+- **Le wagonnets** : _Accès aux wagonnets_
+- **L'émeraude** : _Accès aux interactions_ → Permet d'autoriser l'interaction avec les  villageois et les animaux par les joueurs non membres du claim.
+- **L'oeuf de cochon** : _Spawn des animaux_ → Permet de choisir les spawns d'animaux.
+- **L'oeuf de zombie** : _Spawn des monstres_ → Permet de choisir les spawns de monstres.
+- **L'enderpearl** : _Accès aux téléportations_ → Permet de choisir les spawns d'animaux dans le claim. Permet d'autoriser l'utilisation des enderpearls et des chorus.
+- **Le papier** : _Accès à la commande /top_
+- **Le signe interdiction** : _Entrer dans la région_ →  Permet d'empêcher les joueurs à entrer.
+- **La houe** : _Accès aux cultures_ →  Permet d'autoriser les joueurs à récolter et planter les cultures.
+- **Le pioche** : _Accès à casser des blocs_ → Permet de choisir les blocs que les joueurs non membres du claim peuvent casser.
+- **La table de craft** : _Accès aux tables de craft et enchantements_
+- **La pierre** : _Accès à placer des blocs_ → Permet de choisir les blocs que les joueurs non membres du claim peuvent placer.
+- **Le bloc de lapis** : _Transformation des blos_ → Permet d'empêcher la transformation des blocs.
+- **La flèche** : _Retour_ →  Permet de revenir au menu principal du claim.
 
-- **Spawn des monstres** : Vous pouvez choisir les monstres que vous souhaitez voir apparaître dans cette région!
-  
-:::tip
-Interdire le spawn des crabes - Chercher les silverfish et cliquez pour changer le statut à &lt;Non&gt;
-:::
-
-- **Accès aux téléportations** : Permet d'autoriser l'utilisation des enderpearl et les chorus dans votre région.
-- **Accès à la commande /top**
-- **Entrer dans la région** : Permet d'empêcher les joueurs d'entrer dans votre région.
-- **Accès aux cultures** : Permet d'autoriser les joueurs à récolter et replanter les cultures.
-- **Accès à casser des blocs** : Vous pouvez choisir les blocs que les joueurs non membres de cette région peuvent casser.
-- **Accès aux tables de craft/enchantements**
-- **Accès à placer des blocs** : Vous pouvez choisir les blocs que les joueurs non membres de cette région peuvent placer.
-- **Transformation des blocs** : Permet d'empêcher la transformation des blocs, tels que le béton, avec l'eau.
-
-
-
----
-
-## ⚙ Limite de claims par grade :
-
-|           | Naufragé | Explorateur | Guerrier | Viking | Viking+         |
-|:----------------------------:|:---------:|:---:|:---:|:---:|:----------------:|
-| **Surface de claims**        | 250 000 | 500 000 | 750 000 | 1 000 000 | 1 000 000      |
-
-
----
-
-## 🏙️ Le Pack Ville
-Vous pouvez également acheter un Pack Ville dans la boutique pour 1000 perles.
-Ce pack vous donne accès à une région de 1,5 million de blocs — idéal pour les projets de grande envergure comme les villes.
-
----
 ![Attention](/img/claim/warning.png)
 
 :::danger
 **Il est strictement interdit de faire un claim sur le toit du Nether dans le but de s'y téléporter ou de construire. Des sanctions sévères seront prises en cas de non-respect des règles.**
 :::
+
+:::danger
+**Les spawns des monstres et animaux sont de base par défaut Minecraft. C'est à dire que les mobs sont actifs. Pour retirer certains spawns, une seule activation de spawn désactivera automatiquement les autres.**
+:::
+
+
