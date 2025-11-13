@@ -45,22 +45,23 @@ Le prix du claim est calculé en fonction de sa taille.
 ---
 
 ## 🔧 Gérer votre région :
-Utilisez **/rp border** pour afficher les contours de votre région. Faites **/claim** ou **/flag** pour ouvrir le menu de gestion. Vous pouvez aussi ajouter des membres avec **/rp addmember &lt;joueur&gt;**.
+Utilisez **/claim border** pour afficher les contours de votre région. Faites **/claim** ou **/flag** pour ouvrir le menu de gestion. Vous pouvez aussi ajouter des membres avec **/claim addmember &lt;joueur&gt;**.
 
 ---
 
 ## 📜 Commandes de région :
 - **/claim** : Ouvre le menu de gestion de région
-- **/rp tuto** : Tutoriel pour créer une région
-- **/rp addadmin &lt;joueur&gt;** : Ajouter un joueur en tant qu'admin de la région
-- **/rp addmember &lt;joueur&gt;** : Ajouter un joueur en tant que membre de la région
-- **/rp msg &lt;message/off&gt;** : Modifier le message de bienvenue de la région
-- **/rp kick &lt;joueur&gt;** : Exclure un joueur de la région
-- **/rp rename &lt;nom&gt;** : Renommer votre région
-- **/rp list** : Affiche la liste de toutes vos régions
-- **/rp removeadmin &lt;joueur&gt;** : Retirer un joueur en tant qu'admin
-- **/rp removemember &lt;joueur&gt;** : Retirer un membre de la région
-- **/rp limit** : Affiche le nombre de blocs claim et la limite
+- **/claim tuto** : Tutoriel pour créer une région
+- **/claim addadmin &lt;joueur&gt;** : Ajouter un joueur en tant qu'admin de la région
+- **/claim addmember &lt;joueur&gt;** : Ajouter un joueur en tant que membre de la région
+- **/claim msg &lt;message/off&gt;** : Modifier le message de bienvenue de la région
+- **/claim kick &lt;joueur&gt;** : Exclure un joueur de la région pendant 30 minutes
+- **/claim rename &lt;nom&gt;** : Renommer votre région
+- **/claim list** : Affiche la liste de toutes vos régions
+- **/claim removeadmin &lt;joueur&gt;** : Retirer un joueur en tant qu'admin
+- **/claim removemember &lt;joueur&gt;** : Retirer un membre de la région
+- **/claim limit** : Affiche le nombre de blocs claim et la limite
+- **/claim info** : Affiche toutes les informations du claim sur lequel vous vous trouvez
 
 ---
 ## Les flags
@@ -103,5 +104,6 @@ Utilisez la commande **/flags** pour paramétrer votre claim. Voici les paramèt
 :::danger
 **Les spawns des monstres et animaux sont de base par défaut Minecraft. C'est à dire que les mobs sont actifs. Pour retirer certains spawns, une seule activation de spawn désactivera automatiquement les autres.**
 :::
+
 
 
