@@ -8,6 +8,14 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ---
 
+## 🛠️ Comment changer son mot de passe du jeu
+⚠️ Une fois connecté avec votre ancien mot de passe ⚠️
+
+- **Sur le hub** : Utiliser la commande /changepass nouveaupass nouveaupass
+- **Au spawn** : Utiliser la commande /changepass confirm
+
+---
+
 ## 🌄 Distance de vue (view-distance)
 - **View-distance** : `8` dans les mondes joueurs (mondes où les joueurs jouent, construisent et explorent)
 - **View-distance** : `10` dans les mondes publics (spawn, zones PvP, monde End, zone Pinata, AFK, etc..)
