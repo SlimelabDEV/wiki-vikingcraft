@@ -1,43 +1,65 @@
 ---
 sidebar_position: 0
-title: 👋 Bienvenue sur le Wiki
+title: 👋 Bienvenue
 ---
 
-# 👋 Bienvenue sur le Wiki Officiel
-
-Bienvenue sur le wiki officiel de VikingCraft !  
-Ce site a pour objectif de regrouper toutes les informations essentielles pour bien commencer, progresser, et maîtriser toutes les fonctionnalités proposées sur le serveur.
-
----
-
-## 📖 Comment utiliser ce wiki ?
-
-- Naviguez via le **menu à gauche** pour consulter les différentes catégories
-- Utilisez la barre de recherche en haut à droite pour trouver rapidement une information
-- Cliquez sur les liens internes pour approfondir chaque mécanique
-
----
-
-## 🧠 Contribuer au wiki
-
-Ce wiki est **ouvert aux contributions de la communauté**.  
-Si vous repérez une erreur, ou souhaitez ajouter une page :
-
-- Rendez-vous sur le dépôt GitHub : [SlimelabDEV/wiki-vikingcraft](https://github.com/SlimelabDEV/wiki-vikingcraft)
-- Cliquez sur “Edit this page” sur une page existante
-- Proposez vos modifications en quelques clics
-
----
-
-# 🙌 Contributeurs
-
-Merci aux personnes qui font vivre ce wiki 💚  
+# 👋 Bienvenue sur le wiki officiel de VikingCraft
 
 <p align="center">
-  <img src="https://contrib.rocks/image?repo=SlimelabDEV/wiki-vikingcraft" alt="Contributeurs GitHub SlimelabDEV" />
+  <img src="/img/background/welcome-background.png" alt="Paysage de VikingCraft" />
 </p>
+
+Bienvenue sur **VikingCraft** !
+
+Tu trouveras ici toutes les infos utiles pour bien débuter, progresser tranquillement et comprendre les systèmes du serveur. Que tu sois nouveau joueur, habitué du serveur ou juste en train de chercher une commande oubliée, ce wiki est là pour te guider.
 
 ---
 
-> **Bon jeu à tous, et merci d’être là 💚**
+## 🚀 Bien démarrer
 
+Si tu découvres le serveur, commence ici :
+
+- 📜 [**Règlement**](/docs/Information/rules) : les règles importantes à connaître avant de jouer.
+- ✏️ [**Commandes**](/docs/Information/commands) : toutes les commandes utiles en jeu.
+- ❓ [**FAQ**](/docs/Information/faq) : les réponses aux questions fréquentes.
+- 👑 [**Grades**](/docs/gameplay/grades) : les grades, avantages et progressions disponibles.
+
+---
+
+## ⚙️ Systèmes importants
+
+Pour bien profiter de VikingCraft, pense aussi à consulter :
+
+- 💫 [**Équipage**](/docs/gameplay/equipage) : jouer et progresser avec ton groupe.
+- 🎣 [**Pêche**](/docs/gameplay/peche) : découvrir la pêche moddée.
+- 🥇 [**Or nordique**](/docs/gameplay/ornordique) : comprendre cette ressource.
+- 🛡️ [**Claims**](/docs/gameplay/claim) : protéger tes constructions.
+- 🏁 [**Quêtes**](/docs/gameplay/quest) : accomplir des objectifs et récupérer des récompenses.
+
+---
+
+## 🧭 Explorer le wiki
+
+Tu peux aussi parcourir les grandes catégories :
+
+- ℹ️ [**Information**](/docs/category/information) : règles, commandes et questions fréquentes.
+- 🎮 [**Gameplay**](/docs/category/gameplay) : mécaniques principales du serveur.
+- 🎉 [**Divers**](/docs/category/divers) : votes, casino, événements et systèmes annexes.
+
+---
+
+## 🆘 Besoin d'aide ?
+
+Si tu ne trouves pas une information, consulte la [**FAQ**](/docs/Information/faq) ou demande de l'aide au staff.
+Le wiki évolue avec le serveur, donc certaines pages peuvent être complétées ou améliorées avec le temps.
+
+---
+
+## 💚 Contribuer
+
+Tu as repéré une erreur ou une information manquante ?
+Tu peux proposer une correction via le dépôt GitHub [**SlimelabDEV/wiki-vikingcraft**](https://github.com/SlimelabDEV/wiki-vikingcraft) ou contacter l'équipe du serveur.
+
+---
+
+> **Bon jeu sur VikingCraft, et amuse-toi bien ! 🎮**
