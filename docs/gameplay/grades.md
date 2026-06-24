@@ -32,7 +32,7 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 :::
 ---
 
-### 🚀 Voici toutes les commandes disponibles pour chaque grade: 
+### 🚀 Voici toutes les commandes et avantages disponibles pour chaque grade: 
 
 | Commandes/Avantages          | Naufragé | Explorateur | Guerrier | Viking | Viking+         |
 |----------------------------|---------|---|---|---|----------------|
@@ -49,9 +49,10 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 | **/feed**                   | ❌      | ❌ | ✅ | ✅ | ✅              |
 | **/skull**                  | ❌      | ❌ | ✅ | ✅ | ✅              |
 | **/repair**                 | ❌      | ❌ | ✅ | ✅ | ✅              |
-| **/speedfly**               | ❌      | ❌ | ✅ | ✅ | ✅              |
+| **/speedfly ou /sf**        | ❌      | ❌ | ✅ | ✅ | ✅              |
 | **/glow**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/four**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
+| **/fourall**                | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/tags**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/repairall**              | ❌      | ❌ | ❌ | ❌ | ✅              |
 | **/anvil**                  | ❌      | ❌ | ❌ | ❌ | ✅              |
@@ -61,6 +62,10 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 | **/loom**                   | ❌      | ❌ | ❌ | ❌ | ✅              |
 | **/cartographytable**       | ❌      | ❌ | ❌ | ❌ | ✅              |
 | **/emoji**                  | ❌      | ❌ | ❌ | ❌ | ✅              |
+| **Accès aux Gadgets /cos**  | ❌      | ❌ | ❌ | ❌ | ✅              |
+| **Accès aux Statuts /cos**  | ❌      | ❌ | ❌ | ❌ | ✅              |
+| **/glow+**                  | ❌      | ❌ | ❌ | ❌ | ✅              |
+| **/taille**                 | ❌      | ❌ | ❌ | ❌ | ✅              |
 | **Items au /ah**             | 25      | 50 | 75 | 100 | 100            |
 | **Nombre de home**           | 5       | 15 | 25 | 50 | 50             |
 | **Coffre de market**         | 10      | 20 | 20 | 20 | 20             |
