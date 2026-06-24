@@ -9,11 +9,13 @@ Voici la liste complète des commandes disponibles sur le serveur VikingCraft. C
 ---
 
 ## Commandes Générales 🛠️
-- **/regles** : Ouvre le lien vers le règlement.
+- **/regles** : Ouvre le lien vers le règlement du serveur.
+- **/wiki** : Ouvre le lien vers le wiki du serveur.
 - **/menu** : Ouvre le menu principal du serveur.
 - **/boutique** : Ouvre le menu boutique du serveur.
-- **/buy** : Ouvre le menu achat de points.
-- **/skill** : Ouvre le menu compétences et salaires.
+- **/buy** : Ouvre le menu achat de perles.
+- **/buy \<pseudo\>** : Ouvre le menu d'achat de perles pour les offrir au joueur souhaité.
+- **/skill ou /sk** : Ouvre le menu compétences et salaires.
 - **/skill top** : Ouvre le menu des classements des compétences.
 - **/liens** : Affiche les liens vers nos sites.
 - **/niveau** : Permet de voir vos statistiques.
@@ -66,7 +68,7 @@ Voici la liste complète des commandes disponibles sur le serveur VikingCraft. C
 - **/hub** : Retour au hub.
 - **/spawn** : Vous téléporte vers le spawn.
 - **/casino** : Vous téléporte vers le Casino du serveur.
-- **/crate** : Vous téléporte vers l'emplacements des différentes caisses d'évent, vote... du spawn.
+- **/crate ou /crates** : Vous téléporte vers l'emplacement des différentes caisses d'évent, vote, pêche... du spawn.
 
 ---
 
@@ -125,6 +127,7 @@ Voici la liste complète des commandes disponibles sur le serveur VikingCraft. C
 - **/e bank withdraw &lt;nombre&gt;** : Retirer de l'argent de la banque d’équipage.
 - **/e bank deposit &lt;nombre&gt;** : Déposer de l'argent dans la banque d’équipage.
 - **/e upgrade** : Améliore votre équipage.
+- **/e transfer \<pseudo\>** : Transfère la propriété de l'équipage au joueur souhaité.
 
 ---
 
