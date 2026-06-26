@@ -14,8 +14,8 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ---
 
-## ⚙ Ticks et Chunck
-- **Chunck distance** : 5 (Inclus celui où se trouve le joueur).
+## ⚙ Ticks et chunks
+- **Chunk distance** : 5 (inclut celui où se trouve le joueur).
 - **Tick vitesse** : 20tick/sec 
 
 ---
@@ -42,7 +42,7 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 ## 🏭 Spawners
 :::tip 💡
 - **Casser un spawner** : Nécessite un grade boutique, pas besoin d'une pioche spéciale.
-  :::
+:::
 
 ---
 
@@ -76,9 +76,9 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ---
 
-## 🚫 Double comptes
+## 🚫 Doubles comptes
 :::tip ⚠️
-- **Autorisation** : Non, sauf pour les membres d'un même foyer jouant sur la même IP. Preuve via ticket. Une vérification peut être faite par les Staffs.
+- **Autorisation** : Non, sauf pour les membres d'un même foyer jouant sur la même IP. Preuve via ticket. Une vérification peut être faite par le staff.
 - Il est **interdit** de faire les évents sur plusieurs comptes dans le but de multiplier les récompenses afin des transférer sur le compte principal.
 :::
 
@@ -137,8 +137,8 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ## 🧱 Blocs claimables
 :::tip 🔒
-- **Limite par défaut** : 250k blocs, possibilité d'augmenter jusqu'à 1 million avec le grade **Viking** et 1.5 Million avec `L'avantage Claim Géant` au `/boutique`→ Divers
-  :::
+- **Limite par défaut** : 250k blocs, possibilité d'augmenter jusqu'à 1 million avec le grade **Viking** et 1,5 million avec `L'avantage Claim Géant` au `/boutique` → Divers.
+:::
 
 ---
 
@@ -172,5 +172,5 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ## 🎨 Pack de texture
 :::tip 🖼️
-- **Problème de téléchargement** : Assurez vous d'être connecté avec la bonne version du jeu. Allez dans Multijoueur, sélectionnez le serveur, cliquez sur "Modifier", puis activez "Pack de ressource".
-  :::
+- **Problème de téléchargement** : Assurez-vous d'être connecté avec la bonne version du jeu. Allez dans Multijoueur, sélectionnez le serveur, cliquez sur "Modifier", puis activez "Pack de ressources".
+:::
