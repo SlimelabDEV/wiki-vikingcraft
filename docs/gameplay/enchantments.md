@@ -367,27 +367,27 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 
 | Enchantement Mythique               | Adapté pour     | Description                                                                    | CoolDown | Taux de chance | Condition d'activation                                   |
 | ----------------------------------- | --------------- | ------------------------------------------------------------------------------ | -------- | -------------- | -------------------------------------------------------- |
-| Plantation I                        | Houe            | Planter les graines en 3x3                                                     | 3s       | 100%           | Avoir des graines + clic droit                           |
-| Plantation II                       | Houe            | Planter les graines en 3x3                                                     | 2s       | 100%           | Avoir des graines + clic droit                           |
-| Plantation III                      | Houe            | Planter les graines en 3x3                                                     | X        | 100%           | Avoir des graines + clic droit                           |
+| Plantation I                        | Houe            | Planter les graines de blé en 3x3                                                     | 3s       | 100%           | Avoir des graines de blé + clic droit                           |
+| Plantation II                       | Houe            | Planter les graines de blé en 3x3                                                     | 2s       | 100%           | Avoir des graines de blé + clic droit                           |
+| Plantation III                      | Houe            | Planter les graines de blé en 3x3                                                     | X        | 100%           | Avoir des graines de blé + clic droit                           |
 | Plantation (pomme de terre) I       | Houe            | Planter des pommes de terre en 3x3                                             | 3s       | 100%           | Avoir des patates + clic droit                           |
 | Plantation (pomme de terre) II      | Houe            | Planter des pommes de terre en 3x3                                             | 2s       | 100%           | Avoir des patates + clic droit                           |
 | Plantation (pomme de terre) III     | Houe            | Planter des pommes de terre en 3x3                                             | X        | 100%           | Avoir des patates + clic droit                           |
 | Plantation (carottes) I             | Houe            | Planter des carottes en 3x3                                                    | 3s       | 100%           | Avoir des carottes + clic droit                          |
 | Plantation (carottes) II            | Houe            | Planter des carottes en 3x3                                                    | 2s       | 100%           | Avoir des carottes + clic droit                          |
 | Plantation (carottes) III           | Houe            | Planter des carottes en 3x3                                                    | X        | 100%           | Avoir des carottes + clic droit                          |
-| Plantation (torche-fleur) I         | Houe            | Planter des torche-fleur en 3x3                                                | X        | 100%           | Avoir des torchefleur+ |
-clique droit                        |
-| Plantation (torche-fleur) II        | Houe            | Planter des torches-fleur en 3x3                                               | X        | 100%           | Avoir des torchefleur+
-clique droit                        |
-| Plantation (torche-fleur) III       | Houe            | Planter des torche-fleur en 3x3                                                | X        | 100%           | Avoir des torchefleur+
-clique droit                        | 
-| Plantation ( planturne) I           | Houe            | Planter des planturnes en 3x3                                                  | X        | 100%           | Avoir des planturnes+
-clique droit                        |
-Plantation   ( planturne) II          |                 | Planter des planturnes en 3x3                                                  | X        | 100%           | Avoir des planturnes+
-clique droit                        |
-Plantation   ( planturne) III         |                 | Planter des planturnes en 3x3                                                  | X        | 100%           | Avoir des planturnes+
-clique droit                        |
+| Plantation (torche-fleur) I         | Houe            | Planter des torche-fleur en 3x3                                                | 3s       | 100%           | Avoir des torchefleur + clique droit                        |
+| Plantation (torche-fleur) II        | Houe            | Planter des torches-fleur en 3x3                                               | 2s       | 100%           | Avoir des torchefleur+clique droit                        |
+| Plantation (torche-fleur) III       | Houe            | Planter des torche-fleur en 3x3                                                | X        | 100%           | Avoir des torchefleur + clique droit                        | 
+| Plantation ( planturne) I          | Houe            | Planter des planturnes en 3x3                                                  | 3s       | 100%           | Avoir des planturnes + clique droit                        |
+Plantation ( planturne) II          | Houe            | Planter des planturnes en 3x3                                                  | 2s       | 100%           | Avoir des planturnes + clique droit                        |
+Plantation ( planturne) III         |  Houe           | Planter des planturnes en 3x3                                                  | X        | 100%           | Avoir des planturnes + clique droit                        |
+| Plantation ( Betterave ) I          | Houe            | Planter des betteraves en 3x3                                                | 3s       | 100%           | Avoir des betteraves + clique droit                        |
+Plantation ( Betterave  II          |  Houe           | Planter des betteraves en 3x3                                                  | 2s       | 100%           | Avoir des betteraves + clique droit                        |
+Plantation ( Betterave  III         |  Houe           | Planter des betteraves en 3x3                                                  | X        | 100%           | Avoir des betteraves + clique droit                        |
+| Plantation ( Verrues du nether ) I | Houe            | Planter des verrues en 3x3                                           | 3s       | 100%           | Avoir des verrues + clique droit                        |
+Plantation ( Verrues du nether )  II |  Houe           | Planter des verrues en 3x3                                             | 2s       | 100%           | Avoir des verrues + clique droit                        |
+Plantation ( Verrues du nether )  III |  Houe           | Planter des verrues en 3x3                                             | X        | 100%           | Avoir des verrues + clique droit                        |
 | Jambes en gelée I                   | Bottes          | Chance d'annuler les dégâts de chute                                           | X        | 40%            | Équiper les bottes                                       |
 | Jambes en gelée II                  | Bottes          | Chance d'annuler les dégâts de chute                                           | X        | 80%            | Équiper les bottes                                       |
 | Jambes en gelée III                 | Bottes          | Chance d'annuler les dégâts de chute                                           | X        | 100%           | Équiper les bottes                                       |
@@ -653,10 +653,28 @@ clique droit                        |
 | Lancement I             | Épée            | Projette en l'air de 8 unités | 15s | 20% | Clic droit |
 | Lancement II            | Épée            | Projette en l'air de 9 unités | 15s | 27% | Clic droit |
 | Lancement III           | Épée            | Projette en l'air de 10 unités | 10s | 35% | Clic droit |
+| Tueur de Raid I         | Épée            | Augmente les dégâts de 80% à 120% contre les mobs de Raids | x | 100% | Mettre un coup mob de Raid (Pillager, Vindicator, Evoker, Ravager, Vex, Witch) |
+| Renforcé Armure I      | Armure          | Chance d'éviter 1 point de perte de durabilité de l'armure | x | 5% | Prendre un coup (mob ou joueur)  |     
+| Renforcé Armure II     | Armure          | Chance d'éviter 1 point de perte de durabilité de l'armure | x | 10% | Prendre un coup (mob ou joueur) |
+| Renforcé Armure III    | Armure          | Chance d'éviter 1 point de perte de durabilité de l'armure | x | 15% | Prendre un coup (mob ou joueur) |
+| Renforcé Armure IV     | Armure          | Chance d'éviter 1 point de perte de durabilité de l'armure | x | 20% | Prendre un coup (mob ou joueur) |
+| Renforcé Armure V      | Armure          | Chance d'éviter 1 point de perte de durabilité de l'armure | x | 25% | Prendre un coup (mob ou joueur) |
+| Renforcé Armure VI     | Armure          | Chance d'éviter 1 point de perte de durabilité de l'armure | x | 30% | Prendre un coup (mob ou joueur) |
+| Renforcé Armure VII    | Armure          | Chance d'éviter 1 point de perte de durabilité de l'armure | x | 35% | Prendre un coup (mob ou joueur) |
+| Renforcé Armure VIII   | Armure          | Chance d'éviter 1 point de perte de durabilité de l'armure | x | 40% | Prendre un coup (mob ou joueur) |
+| Renforcé Armure XIV    | Armure          | Chance d'éviter 1 point de perte de durabilité de l'armure | x | 45% | Prendre un coup (mob ou joueur) |
+| Renforcé Armure X      | Armure          | Chance d'éviter 1 point de perte de durabilité de l'armure | x | 50% | Prendre un coup (mob ou joueur) |
 
 ---
 
+## ## 🌷 Les enchantements Fabuleux
 
 
+| Enchantement Fabuleux | Adapté pour les | Description | CoolDown | Taux de chance | Condition d'activation |
+| ----------------------- | --------------- | ----------- | -------- | -------------- | ---------------------- |
+| Cupidon I               | Épée         | Crée un court effet de particules 💕Coeurs💕 autour de vous | x | 100% | Sélectionner/Désélectionner l'épée en main |
+| Tranché I (Houe)        | Houe         | Casser en 3x3 (Sculk, feuilles, paille, mousse, éponges sèches et mouillées) | x | 100% | Casser un bloc |
+| Tueur de Warden I       | Épée         | Augmente les dégâts contre les Wardens de 280% à 400% | x | 70% | Frapper un Warden |
+| Petite Aide I           | Jambières    | Invoque des chauves-souris et des effets pour vous aider à fuir | 60s | 30% | S'active lorsque le joueur à 6 PV ou moins. | 
 
-
+---
