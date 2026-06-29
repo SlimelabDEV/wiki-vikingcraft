@@ -137,7 +137,9 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ## 🧱 Blocs claimables
 :::tip 🔒
-- **Limite par défaut** : 250k blocs, possibilité d'augmenter jusqu'à 1 million avec le grade **Viking** et 1,5 million avec `L'avantage Claim Géant` au `/boutique` → Divers.
+- **Limite par défaut** : 250k blocs, possibilité d'augmenter jusqu'à 1 million avec le grade **Viking**.
+- `L'avantage Claim Géant` au `/boutique` → Divers vous permettra d'augmenter cette limite à 1,5 million de blocs.
+- `L'avantage Claim Iceberg` au `/boutique` → Divers vous permettra d'augmenter cette limite à 2 millions de blocs.
 :::
 
 ---
@@ -174,3 +176,30 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 :::tip 🖼️
 - **Problème de téléchargement** : Assurez-vous d'être connecté avec la bonne version du jeu. Allez dans Multijoueur, sélectionnez le serveur, cliquez sur "Modifier", puis activez "Pack de ressources".
 :::
+
+---
+
+## ⭐ Compte Premium 
+### <ins> Qu'est-ce que le compte Premium ? </ins>
+- Le compte Premium est un type d'abonnement très rare, à durée variable allant d'un jour à un an selon l'offre désirée et vous offrant de multiples avantages. Une offre supplémentaire vous permet d'offrir 1 heure de Premium à l'ensemble des joueurs ( Celle-ci peut être cumulée afin d'offrir plusieurs heures de Premium).
+- Les avantages sont :
+    - Gain d'expérience de compétence **doublé**.
+    - Gain d'expérience de niveau de serveur **doublé**.
+    - Gain d'argent de tous les salaires **doublé**.
+    - **+50 %** d'argent gagné lorsque vous tuez des mobs provenants de spawners.
+    - **+50 %** de couronnes gagnées en donjon.
+    - Possibilité d'activer jusqu'à **10 quêtes** simultanément.
+    - Préfixe ⭐ à côté de votre pseudo.
+    - Fly **illimité** dans les mondes overworld
+    - Accès au : `/skin*`, `/condense*`, `/bottlexp*`, `/tete*` et `/fcraft*`
+    - Accès à `l'Outil Automatique*`
+    - Accès à `Casser les arbres en un coup*`
+:::tip 💡
+- Le compte Premium désactive la téléportation automatique au warp AFK (normalement effectuée au bout de 30 min sans bouger). Idéal pour rester AFK dans vos fermes automatisées durant plusieurs heures ! 
+:::
+
+💡* : <sub> Vous pourrez retrouver + d'informations sur ces avantages dans le menu `/boutique` → Divers directement en jeu. </sub>
+
+- ⚠️ Une fois le Compte Premium activé, le compte à rebours en haut de l'écran dans la bossbar `/bossbar` ne cessera de diminuer, même lorsque vous serez déconnecté.
+
+---
