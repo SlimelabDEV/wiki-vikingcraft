@@ -181,7 +181,7 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ## ⭐ Compte Premium 
 ### <ins> Qu'est-ce que le compte Premium ? </ins>
-- Le compte Premium est un type d'abonnement très rare, à durée variable allant d'un jour à un an selon l'offre désirée et vous offrant de multiples avantages. Une offre supplémentaire vous permet d'offrir 1 heure de Premium à l'ensemble des joueurs ( Celle-ci peut être cumulée afin d'offrir plusieurs heures de Premium).
+- Le compte Premium est un type d'abonnement très rare, à durée variable allant d'un jour à un an selon l'offre désirée et vous offrant de multiples avantages. Une offre supplémentaire vous permet d'offrir 1 heure de Premium à l'ensemble des joueurs ( celle-ci peut être cumulée afin d'offrir plusieurs heures de Premium).
 - Les avantages sont :
     - Gain d'expérience de compétence **doublé**.
     - Gain d'expérience de niveau de serveur **doublé**.
