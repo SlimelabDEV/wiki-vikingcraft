@@ -139,8 +139,8 @@ Voici la liste complète des commandes disponibles sur le serveur VikingCraft. C
 - **/maison ou /maisons** : Ouvre le menu principal des maisons.
 - **/maison list** : Affiche la liste des maisons, le prix d'une part, la caisse et votre nombre de participations dans chacune d'elles.
 - **/maison house \<maison\>** : Affiche le prix d'une part, la caisse, le nombre total de participations et vos participations d'une maison précise.
-- **/maison sell <maison> <nombre>** : Permet de vendre une quantité souhaitée de participations d'une maison précise.
-- **/maison sell <maison> all** : Permet de vendre toutes vos participations d'une maison précise.
+- **/maison sell \<maison\> \<nombre\>** : Permet de vendre une quantité souhaitée de participations d'une maison précise.
+- **/maison sell \<maison\> all** : Permet de vendre toutes vos participations d'une maison précise.
 - **/maison status** : Affiche le nombre total de maisons chargées.
 
 ---
