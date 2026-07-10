@@ -139,7 +139,9 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 :::tip 🔒
 - **Limite par défaut** : 250k blocs, possibilité d'augmenter jusqu'à 1 million avec le grade **Viking**.
 - `L'avantage Claim Géant` au `/boutique` → Divers vous permettra d'augmenter cette limite à 1,5 million de blocs.
-- `L'avantage Claim Iceberg` au `/boutique` → Divers vous permettra d'augmenter cette limite à 2 millions de blocs.
+- `L'avantage Claim Iceberg*` au `/boutique` → Divers vous permettra d'augmenter cette limite à 2 millions de blocs.
+  
+<sub> * : Disponile après avoir acquis l'avantage Claim Géant au préalable
 :::
 
 ---
@@ -175,6 +177,32 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 ## 🎨 Pack de texture
 :::tip 🖼️
 - **Problème de téléchargement** : Assurez-vous d'être connecté avec la bonne version du jeu. Allez dans Multijoueur, sélectionnez le serveur, cliquez sur "Modifier", puis activez "Pack de ressources".
+:::
+
+---
+
+## ⚖️ Sanctions automatiques et sanctions staff (mutes) :
+### <ins> Comment fonctionne le système de sanctions sur le serveur ? </ins>
+
+- Plusieurs sanctions différentes peuvent être appliquées par SlimeBot ou par les staffs. Il peut s'agir de :
+    - **Kick** : expulsion temporaire du serveur, généralement accompagné d'un message. Reconnexion immédiate possible.
+    - **Mute** : Impossibilité de parler dans le tchat pendant une durée définie, en fonction du nombre de sanctions reçus au cours des 72 dernières heures.
+    - **Ban** : Impossibilité temporaire ou permanente de rejoindre le serveur pendant une durée définie selon le motif de la sanction. 
+
+| **Niveau de sanction sur 72h** | **Sanction appliquée**                     |
+| ------------------------------ | ------------------------------------------ |
+| **1° sanction**                | Mute 30 minutes + 1 avertissement (warn)   |
+| **2° sanction**                | Mute 1 heure + 1 avertissement (warn)      |
+| **3° sanction**                | Mute 3 heures + 1 avertissement (warn)     |
+| **4° sanction**                | Ban 24 heures du serveur                   |
+
+- Chaque avertissement (warn) expire après 72 heures.
+- Seules les sanctions reçues et actives dans cette période de 72 heures glissantes sont prises en compte pour l'escalade des sanctions.
+- Une fois tous les avertissements expirés, le compteur de sanctions est réinitialisé.
+
+→ Si une sanction non-justifiée est appliquée par erreur par un membre du staff ou par SlimeBot, celle-ci peut être annulée et l'avertissement retiré par un membre du staff.
+:::tip 💡
+- <ins>Pour éviter de recevoir toute sanction et garder un esprit de jeu très correct, il est impératif de respecter le</ins> 📜 [**Règlement**](/docs/Information/rules).
 :::
 
 ---
