@@ -25,14 +25,14 @@ Voici la liste complète des commandes disponibles sur le serveur VikingCraft. C
 - **/profil** : Ouvre le menu profil et options.
 - **/option ou /options** : Ouvre le menu des options directement.
 - **/kit** : Ouvre le menu des kits.
-- **/kitpreview \<nom du kit\>**: Permet d'avoir une prévisualisation du kit demandé.
+- **/kitpreview \<nom du kit\>** : Permet d'avoir une prévisualisation du kit demandé.
 - **/seen \<pseudo\>** : Affiche la première/dernière connexion du joueur, la durée depuis sa dernière (in)activité, le monde où il se situe et son temps de jeu.
 - **/stats** : Permet de voir vos statistiques.
 - **/flytime** : Permet de voir votre temps de fly disponible.
 - **/rtp** : Ouvre le menu de téléportation aléatoire.
 - **/bossbar** : Affiche ou retire les barres d'informations en haut de l'écran.
 - **/sb** : Affiche ou retire le scoreboard à droite de l'écran.
-- **/m \<pseudo\>** ou **/msg \<pseudo\>** : Envoie un message privé à un autre joueur. 
+- **/m \<pseudo\>** ou **/msg \<pseudo\>** : Envoie un message privé à un autre joueur.
 
 ---
 
@@ -153,4 +153,3 @@ Voici la liste complète des commandes disponibles sur le serveur VikingCraft. C
 :::
 
   ---
-  
