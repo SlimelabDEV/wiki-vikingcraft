@@ -89,17 +89,22 @@ Voici la liste complète des commandes disponibles sur le serveur VikingCraft. C
 ---
 
 ## Commandes Claim 🏠
-- **/claim** : Ouvre le menu claim.
-- **/claim create** : Finaliser la création d'un claim avec bâton.
-- **/claim info** : Affiche les informations sur la région.
-- **/claim list** : Liste de toutes vos régions.
-- **/claim chat &lt;message&gt;** : Parler à un joueur de votre région.
-- **/claim near** : Affiche les régions proches de vous.
-- **/claim help** : Liste des différentes commandes d'aide du /claim.
-- **/claim transfert \<pseudo\>** : Permet de transférer le claim où vous êtes au joueur défini.
-- **/claim transfert accepter** : Accepter la demande de tranfert du claim.
-- **/claim transfert refuser** : Refuser la demande de tranfert du claim.
-- **/claim trusted** : Liste de tous les claims des joueurs dans lesquels vous êtes membre ou admin.
+- **/claim** : Ouvre le menu principal du claim ou le menu de création si vous n'êtes dans aucun claim.
+- **/claim create** : Crée un claim avec votre sélection au bâton.
+- **/claim list** : Affiche vos claims et permet de modifier leur icône.
+- **/claim trusted** : Affiche les claims où vous êtes membre ou admin.
+- **/claim info** : Affiche les informations du claim actuel.
+- **/claim limit** : Affiche vos limites de claims et de blocs.
+- **/claim near** : Affiche les claims proches.
+- **/claim tp \<claim\> [monde]** : Vous téléporte vers un de vos claims.
+- **/claim chat \<message\>** : Envoie un message aux membres présents dans le claim.
+- **/claim notify** : Active ou désactive les notifications d'entrée/sortie et les messages de bienvenue.
+- **/claim bossbar** : Active ou désactive la bossbar permanente du claim.
+- **/claim flag** : Ouvre le menu des flags.
+- **/claim member** : Ouvre le menu des membres.
+- **/claim ban** : Ouvre le menu des bannissements.
+- **/claim border** : Affiche la bordure du claim.
+- **/claim transfert \<joueur\> [claim] [monde]** : Propose de transférer un claim à un joueur.
 
 ---
 
