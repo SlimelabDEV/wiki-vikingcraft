@@ -129,7 +129,7 @@ Il peut améliorer votre confort visuel, vos FPS et votre immersion pendant l'ex
 Si vous cherchez un serveur Minecraft francophone pour profiter de vos nouveaux réglages, vous pouvez rejoindre **VikingCraft**.
 Le serveur propose une économie, des métiers, des compétences, des quêtes, des donjons et de nombreuses activités.
 
-**Adresse du serveur :** `play.vikingcraft.fr`
+**Adresse du serveur :** `go.vikingcraft.fr`
 
 ## ✅ Conclusion
 

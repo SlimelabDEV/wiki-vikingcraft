@@ -138,7 +138,7 @@ Une bonne configuration permet de profiter plus confortablement des serveurs Min
 Si vous souhaitez tester vos réglages sur un serveur Minecraft francophone actif, vous pouvez rejoindre **VikingCraft**.
 Le serveur propose une économie entre joueurs, des métiers, des compétences, des quêtes, des donjons et de nombreuses activités.
 
-**Adresse du serveur :** `play.vikingcraft.fr`
+**Adresse du serveur :** `go.vikingcraft.fr`
 
 ## ✅ Conclusion
 

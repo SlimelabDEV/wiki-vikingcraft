@@ -139,7 +139,7 @@ Les shaders fonctionnent également sur la plupart des serveurs Minecraft. Ils p
 Si vous recherchez un serveur Minecraft francophone pour profiter pleinement de vos nouveaux graphismes, vous pouvez rejoindre **VikingCraft**.
 Le serveur propose notamment une économie entre joueurs, des métiers, des compétences, des quêtes, des donjons et de nombreuses activités pour progresser dans un univers riche en contenu.
 
-**Adresse du serveur :** `play.vikingcraft.fr`
+**Adresse du serveur :** `go.vikingcraft.fr`
 
 ## ✅ Conclusion
 

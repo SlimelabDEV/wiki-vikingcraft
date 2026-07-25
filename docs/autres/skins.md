@@ -136,7 +136,7 @@ Une fois votre skin installé, celui-ci sera visible par les autres joueurs sur 
 Si vous recherchez un serveur Minecraft francophone pour montrer votre nouveau personnage, vous pouvez rejoindre **VikingCraft**.
 Le serveur propose notamment une économie entre joueurs, des métiers, des compétences, des quêtes, des donjons et de nombreuses activités pour progresser avec votre personnage personnalisé.
 
-**Adresse du serveur :** `play.vikingcraft.fr`
+**Adresse du serveur :** `go.vikingcraft.fr`
 
 ## ✅ Conclusion
 

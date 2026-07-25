@@ -131,7 +131,7 @@ Les seeds sont très pratiques en solo, mais les serveurs Minecraft permettent d
 Si vous recherchez un serveur Minecraft francophone avec une progression complète, vous pouvez rejoindre **VikingCraft**.
 Le serveur propose une économie, des métiers, des compétences, des quêtes, des donjons et de nombreuses activités avec d'autres joueurs.
 
-**Adresse du serveur :** `play.vikingcraft.fr`
+**Adresse du serveur :** `go.vikingcraft.fr`
 
 ## ✅ Conclusion
 
