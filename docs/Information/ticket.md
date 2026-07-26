@@ -1,4 +1,5 @@
 ---
+description: "Découvrez quand ouvrir un ticket sur VikingCraft, les catégories disponibles, les preuves à fournir et les demandes traitées par le staff."
 sidebar_position: 4
 ---
 

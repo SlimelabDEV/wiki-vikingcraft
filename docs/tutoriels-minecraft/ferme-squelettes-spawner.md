@@ -1,14 +1,14 @@
 ---
-title: Ferme à squelettes avec un spawner Minecraft
+title: 🏹 Ferme à squelettes avec un spawner Minecraft
 description: Transformez un générateur de squelettes en ferme d'expérience et de ressources avec de l'eau, un ascenseur à bulles et une zone sécurisée.
 sidebar_position: 4
 ---
 
-# Ferme à squelettes avec un spawner Minecraft
+# 🏹 Ferme à squelettes avec un spawner Minecraft
 
 Un générateur de squelettes permet de produire des os, des flèches, des arcs et de l'expérience. Contrairement à une ferme sombre classique, les créatures apparaissent autour d'un bloc précis lorsque le joueur reste suffisamment proche.
 
-## Avant de creuser
+## ⚠️ Avant de creuser
 
 Éclairez immédiatement le générateur pour interrompre les apparitions pendant les travaux. Sécurisez les grottes voisines et videz les coffres du donjon avant de modifier la salle.
 
@@ -22,7 +22,7 @@ Prévoyez :
 - Des entonnoirs et des coffres
 - Des dalles pour la zone de frappe
 
-## Agrandir la salle
+## 📈 Agrandir la salle
 
 Creusez autour du spawner pour donner assez de place aux squelettes. Le sol doit conduire vers un canal de sortie sans que l'eau bloque directement la zone d'apparition.
 
@@ -36,13 +36,13 @@ Creusez autour du spawner pour donner assez de place aux squelettes. Le sol doit
 
 La hauteur de chute doit être testée. L'armure portée par certains squelettes peut modifier les dégâts reçus.
 
-## Créer une zone d'XP sûre
+## 🛠️ Créer une zone d'XP sûre
 
 Laissez une ouverture assez basse pour frapper les jambes des squelettes sans qu'ils puissent vous viser facilement. Placez les entonnoirs sous la zone où ils meurent.
 
 Ajoutez un système pour éviter l'accumulation excessive. Trop de créatures au même endroit peut provoquer des dégâts d'entité, réduire le rendement ou gêner le serveur.
 
-## Problèmes courants
+## ⚠️ Problèmes courants
 
 ### Le spawner ne s'active pas
 
@@ -56,11 +56,13 @@ Tous les blocs d'eau doivent être des sources. Utilisez des algues pour convert
 
 Réduisez sa hauteur ou ajoutez un palier. Pour une ferme d'XP, ils doivent survivre jusqu'au dernier coup.
 
-## À retenir
+## ✅ À retenir
 
 Un spawner à squelettes est une excellente première ferme d'expérience. Gardez le trajet court, la chambre accessible et un éclairage permettant d'arrêter facilement le système.
 
 Consultez aussi la [ferme avec un spawner à araignées](/docs/tutoriels-minecraft/ferme-araignees-spawner) ou les autres [tutoriels Minecraft](/docs/tutoriels-minecraft).
+
+Pour aller plus loin, consultez aussi [le guide pour trouver un spawner](/docs/tutoriels-minecraft/trouver-spawner-minecraft).
 
 ## 🌍 Rejoindre VikingCraft
 

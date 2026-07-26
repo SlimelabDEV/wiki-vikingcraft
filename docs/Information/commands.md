@@ -1,4 +1,5 @@
 ---
+description: "Consultez la liste des commandes de VikingCraft pour la téléportation, l'économie, les homes, les quêtes et les principales fonctions du serveur."
 sidebar_position: 3
 ---
 

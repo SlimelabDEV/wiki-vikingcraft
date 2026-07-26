@@ -1,16 +1,16 @@
 ---
-title: Ferme à or avec des piglins zombifiés
+title: 🪙 Ferme à or avec des piglins zombifiés
 description: Comprenez comment construire une ferme à or Minecraft Java avec des piglins zombifiés, une zone d'apparition et une collecte triée.
 sidebar_position: 8
 ---
 
-# Ferme à or avec des piglins zombifiés
+# 🪙 Ferme à or avec des piglins zombifiés
 
 Les piglins zombifiés peuvent fournir des pépites et des lingots d'or, de la chair putréfiée et de l'expérience. Les fermes les plus productives utilisent les nombreuses apparitions du Nether, mais elles demandent beaucoup de matériaux et un emplacement soigneusement choisi.
 
 Certaines conceptions exploitent le toit du Nether ou de nombreux portails. Ces méthodes peuvent être interdites ou modifiées sur un serveur : vérifiez toujours les règles avant de construire.
 
-## Choisir un type de ferme
+## 🧭 Choisir un type de ferme
 
 ### Ferme dans le Nether
 
@@ -20,7 +20,7 @@ Elle utilise de grandes plateformes dans un biome adapté. Les piglins zombifié
 
 De grands portails peuvent faire apparaître des piglins zombifiés dans le monde normal. Ce modèle consomme beaucoup d'obsidienne et génère de nombreuses mises à jour de portails.
 
-## Matériel courant
+## 🧰 Matériel courant
 
 - Des blocs non inflammables
 - Des dalles pour empêcher les apparitions indésirables
@@ -30,7 +30,7 @@ De grands portails peuvent faire apparaître des piglins zombifiés dans le mond
 - Un système de tri
 - Une zone de frappe sécurisée
 
-## Construire le circuit général
+## 🛠️ Construire le circuit général
 
 1. Identifiez les surfaces où les piglins zombifiés apparaîtront.
 2. Empêchez les autres zones proches de servir de point d'apparition.
@@ -42,7 +42,7 @@ De grands portails peuvent faire apparaître des piglins zombifiés dans le mond
 
 Les piglins zombifiés proches peuvent devenir agressifs en groupe. Ne testez pas la ferme sans protection ni voie de fuite.
 
-## Problèmes courants
+## ⚠️ Problèmes courants
 
 ### Peu de créatures apparaissent
 
@@ -56,11 +56,13 @@ Augmentez la vitesse d'élimination et la capacité de stockage. Une ferme à or
 
 Ajoutez des dalles ou d'autres blocs anti-apparition sur les surfaces voisines accessibles.
 
-## À retenir
+## ✅ À retenir
 
 Une ferme à or est un projet de fin de progression. Commencez par une version modeste, mesurez son comportement sur le serveur et dimensionnez le tri avant d'ajouter des plateformes.
 
 Poursuivez avec la [ferme à raids et à totems](/docs/tutoriels-minecraft/ferme-raids-totems) ou revenez aux [tutoriels Minecraft](/docs/tutoriels-minecraft).
+
+Pour aller plus loin, consultez aussi [le troc automatique avec les piglins](/docs/tutoriels-minecraft/troc-piglins-automatique).
 
 ## 🌍 Rejoindre VikingCraft
 

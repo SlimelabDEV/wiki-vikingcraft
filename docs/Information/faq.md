@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Retrouvez les réponses aux questions fréquentes sur VikingCraft : limites, commandes, mondes, règles, performances et problèmes courants."
 ---
 
 # ☎️ FAQ

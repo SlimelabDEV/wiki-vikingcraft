@@ -1,4 +1,5 @@
 ---
+description: "Découvrez la pêche améliorée de VikingCraft, ses menus, appâts, poissons, tournois, récompenses et commandes principales."
 sidebar_position: 14
 ---
 

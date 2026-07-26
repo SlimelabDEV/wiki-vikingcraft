@@ -1,16 +1,16 @@
 ---
-title: Ferme à raids et à totems dans Minecraft
+title: 🛡️ Ferme à raids et à totems dans Minecraft
 description: Préparez une ferme à raids Minecraft Java pour récupérer des totems d'immortalité, des émeraudes et les objets des illageois.
 sidebar_position: 9
 ---
 
-# Ferme à raids et à totems dans Minecraft
+# 🛡️ Ferme à raids et à totems dans Minecraft
 
 Une ferme à raids permet d'obtenir des totems d'immortalité, des émeraudes et différents objets lâchés par les illageois. C'est une construction avancée : les règles de village, les effets de mauvais présage et le trajet des vagues doivent tous fonctionner ensemble.
 
 Les mécaniques de raid ont évolué dans les versions récentes. En Java Edition actuelle, le joueur obtient l'effet **Mauvais présage** en buvant une fiole menaçante. Lorsqu'il entre ensuite dans un village, cet effet devient **Présage de raid** avant le déclenchement.
 
-## Avant de commencer
+## ⚠️ Avant de commencer
 
 - Vérifiez la version exacte du jeu.
 - Éloignez la ferme des villages et des villageois utilisés ailleurs.
@@ -20,7 +20,7 @@ Les mécaniques de raid ont évolué dans les versions récentes. En Java Editio
 
 Les fermes de raid très rapides peuvent être limitées ou interdites en multijoueur.
 
-## Éléments du système
+## 🧰 Éléments du système
 
 Une ferme comprend généralement :
 
@@ -33,7 +33,7 @@ Une ferme comprend généralement :
 
 L'emplacement du centre du village influence la zone d'apparition. Déplacer un lit ou perdre le villageois peut donc arrêter toute la ferme.
 
-## Déroulement d'un cycle
+## 🔄 Déroulement d'un cycle
 
 1. Obtenez une fiole menaçante auprès d'un capitaine ou d'une autre source compatible.
 2. Buvez-la pour recevoir Mauvais présage.
@@ -44,7 +44,7 @@ L'emplacement du centre du village influence la zone d'apparition. Déplacer un 
 
 Ne restez pas dans une position où les ravageurs, vindicateurs ou évocateurs peuvent vous atteindre.
 
-## Problèmes courants
+## ⚠️ Problèmes courants
 
 ### Le raid se déclenche dans un autre village
 
@@ -58,11 +58,13 @@ Un illageois a pu apparaître dans une grotte, sur une rive ou derrière un reli
 
 Les totems proviennent des évocateurs. Vérifiez que les vagues atteignent la difficulté nécessaire et que la collecte ne détruit pas les objets.
 
-## À retenir
+## ✅ À retenir
 
 Une ferme à raids doit être construite pour une version précise et testée progressivement. Son principal risque n'est pas la redstone, mais un village mal défini ou une vague apparaissant hors du circuit.
 
 Retrouvez la [ferme à monstres classique](/docs/tutoriels-minecraft/ferme-a-monstres) ou la liste des [tutoriels Minecraft](/docs/tutoriels-minecraft).
+
+Pour aller plus loin, consultez aussi [le guide pour vaincre le Wither](/docs/tutoriels-minecraft/invoquer-battre-wither).
 
 ## 🌍 Rejoindre VikingCraft
 

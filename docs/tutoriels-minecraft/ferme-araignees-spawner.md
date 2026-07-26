@@ -1,16 +1,16 @@
 ---
-title: Ferme à araignées avec un spawner Minecraft
+title: 🕷️ Ferme à araignées avec un spawner Minecraft
 description: Aménagez un générateur d'araignées ou d'araignées venimeuses pour récupérer de la ficelle, des yeux et de l'expérience.
 sidebar_position: 5
 ---
 
-# Ferme à araignées avec un spawner Minecraft
+# 🕷️ Ferme à araignées avec un spawner Minecraft
 
 Un spawner à araignées fournit de la ficelle, des yeux d'araignée et de l'expérience. Le projet est compact, mais ces créatures grimpent aux murs et leur largeur rend les canaux plus délicats que pour les zombies ou les squelettes.
 
 Les araignées venimeuses des mines abandonnées sont plus petites et peuvent empoisonner le joueur. Leur chambre de frappe doit être particulièrement bien fermée.
 
-## Matériel nécessaire
+## 🧰 Matériel nécessaire
 
 - Des blocs pleins et des dalles
 - Des torches
@@ -20,7 +20,7 @@ Les araignées venimeuses des mines abandonnées sont plus petites et peuvent em
 - Des feux de camp ou des blocs de magma
 - Éventuellement des trappes pour guider les créatures
 
-## Préparer la salle
+## 🛠️ Préparer la salle
 
 Éclairez le spawner avant de commencer. Creusez une salle assez large autour de lui et retirez les angles ou rebords sur lesquels les araignées pourraient rester.
 
@@ -33,13 +33,13 @@ Les araignées venimeuses des mines abandonnées sont plus petites et peuvent em
 
 Une surface lisse et un trajet court limitent l'escalade.
 
-## Récolte automatique ou expérience
+## 🎯 Récolte automatique ou expérience
 
 Pour une collecte automatique, les feux de camp et les blocs de magma infligent des dégâts continus. Placez des entonnoirs sous la zone afin de récupérer les objets.
 
 Pour l'expérience, aménagez une fente étroite qui permet de frapper sans exposer votre tête. Avec les araignées venimeuses, gardez du lait et une sortie de secours à proximité.
 
-## Problèmes courants
+## ⚠️ Problèmes courants
 
 ### Les araignées restent au plafond
 
@@ -53,11 +53,13 @@ Le trajet est trop lent ou la salle contient des angles où elles peuvent grimpe
 
 Des araignées sont probablement immobilisées près du spawner. Inspectez la salle avec prudence et supprimez les zones de blocage.
 
-## À retenir
+## ✅ À retenir
 
 La ferme à araignées demande moins de hauteur qu'une ferme à squelettes, mais davantage de contrôle sur le déplacement. Un système simple et facile à inspecter est préférable à un long canal caché.
 
 Poursuivez avec la [ferme à slimes](/docs/tutoriels-minecraft/ferme-slimes) ou retrouvez tous les [tutoriels Minecraft](/docs/tutoriels-minecraft).
+
+Pour aller plus loin, consultez aussi [la sécurisation d’une ferme à XP](/docs/tutoriels-minecraft/securiser-ferme-xp).
 
 ## 🌍 Rejoindre VikingCraft
 

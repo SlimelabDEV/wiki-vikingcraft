@@ -1,4 +1,5 @@
 ---
+description: "Découvrez l'or nordique de VikingCraft, les moyens d'en obtenir, ses usages en boutique et les limites de cette monnaie spéciale."
 sidebar_position: 15
 ---
 
