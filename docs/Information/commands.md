@@ -72,6 +72,7 @@ Voici la liste complète des commandes disponibles sur le serveur VikingCraft. C
 - **/spawn** : Vous téléporte vers le spawn.
 - **/casino** : Vous téléporte vers le Casino du serveur.
 - **/crate ou /crates** : Vous téléporte vers l'emplacement des différentes caisses d'évent, vote, pêche... du spawn.
+- **/claim tp &lt;nom du claim&gt;** : Vous téléporte vers le claim souhaité.
 
 ---
 
@@ -85,7 +86,10 @@ Voici la liste complète des commandes disponibles sur le serveur VikingCraft. C
 - **#ec** : Affiche ton enderchest.
 - **#pos** : Affiche ta position.
 - **#bal** : Affiche ton argent.
-- **#skill** : Affiche tes compétences.
+- **#sk** : Affiche tes compétences.
+- **#guild** : Affiche le nom de votre équipage.
+- **#gbank** : Affiche la somme d'argent en banque d'équipage.
+- **#c** : Affiche votre solde de couronnes
 
 ---
 
@@ -103,6 +107,8 @@ Voici la liste complète des commandes disponibles sur le serveur VikingCraft. C
 - **/claim bossbar** : Active ou désactive la bossbar permanente du claim.
 - **/claim flag** : Ouvre le menu des flags.
 - **/claim member** : Ouvre le menu des membres.
+- **/claim member add &lt;pseudo&gt;** : Envoie une demande d'ajout dans le claim au joueur sélectionné.
+- **/claim member accept/decline** : Accepter ou refuser une demande d'ajout dans un claim.
 - **/claim ban** : Ouvre le menu des bannissements.
 - **/claim border** : Affiche la bordure du claim.
 - **/claim transfert \<joueur\> [claim] [monde]** : Propose de transférer un claim à un joueur.
@@ -120,6 +126,7 @@ Voici la liste complète des commandes disponibles sur le serveur VikingCraft. C
 - **/e invite &lt;joueur&gt;** : Invite un joueur dans votre équipage.
 - **/e accept &lt;joueur&gt;** : Accepte une invitation d’équipage.
 - **/e leave** : Quitte votre équipage actuel.
+- **/e confirm** : Permet de confirmer certaines actions demandées.
 - **/e info** : Affiche les informations d’équipage.
 - **/e boot &lt;joueur&gt;** : Kick un joueur de l’équipage.
 - **/e list** : Affiche la liste des équipages.
@@ -152,10 +159,15 @@ Voici la liste complète des commandes disponibles sur le serveur VikingCraft. C
 ---
 
 ## Commandes de débug 🪲
-- **/edebug** (en tenant l'item en main) : Permet de résoudre des bugs présents sur un item, poussières magiques, livres d'enchantements customs non-fonctionnels et + encore.
+- **/edebug** (en tenant l'item en main) : Permet de résoudre des bugs présents sur un item, poussières magiques, livres d'enchantements customs non-fonctionnels, runes protectrices et + encore.
 
 :::tip 💡
 - **la commande /edebug** peut ne pas résoudre tous les soucis de l'item, dans ce cas, il sera nécessaire d'ouvrir un ticket pour expliquer le problème au staff. Un remboursement/échange pourra être effectué.
 :::
 
   ---
+
+## Commande du compte Premium ⭐ 
+- **/premium** : Affiche les informations liées au compte Premium actif.
+
+---
