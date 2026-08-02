@@ -9,21 +9,24 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ---
 
-## Premiers pas sur le serveur
+## 🔐 Premiers pas sur le serveur
 
-- Lors de la première connexion au serveur, il vous sera demandé de créer votre mot de passe de connexion. Pour cela, il vous faudra effectuer cette commande :
-    - 🔒 `/register MotDePasse MotDePasse`
+Lors de votre première connexion, créez votre mot de passe avec la commande suivante :
 
-- Lors des prochaines connexions au serveur, il vous faudra vous connecter à votre compte en effectuant la commande suivante :
-    - 🔓 `/login MotDePasse`  
-💡 <sub>Le mot de passe ci-dessus est donné à titre d'exemple. Veuillez choisir un mot de passe différent et sécurisé.</sub>
+- 🔒 `/register MotDePasse MotDePasse`
+
+Lors des connexions suivantes, connectez-vous à votre compte avec :
+
+- 🔓 `/login MotDePasse`
+
+<sub>Le mot de passe indiqué ci-dessus est seulement un exemple. Choisissez un mot de passe différent et sécurisé.</sub>
 
 :::important ⚠️
-- **Un mot de passe doit rester unique et confidentiel. Ne divulguez jamais vos identifiants et n'utilisez jamais plusieurs fois un même mot de passe.**
+Votre mot de passe doit rester unique et confidentiel. Ne le communiquez jamais et ne réutilisez pas un mot de passe déjà employé sur un autre service.
 :::
 
-:::tip 💡  
-- En cas de perte ou d'oubli de votre mot de passe de connexion, rendez-vous sur le Discord VikingCraft, salon *tickets*, choisissez la raison "*J'ai un problème avec mon mot de passe*" et expliquez votre soucis en respectant la mise en forme. Une réponse du staff vous sera donnée sous peu.
+:::tip 💡
+En cas de perte ou d'oubli de votre mot de passe, rendez-vous sur le Discord de VikingCraft et ouvrez un ticket avec le motif *J'ai un problème avec mon mot de passe*. Décrivez ensuite votre problème en suivant les indications du formulaire afin que le staff puisse vous aider.
 :::
 
 ---
@@ -256,8 +259,10 @@ Pour éviter les suppressions, évitez de concentrer trop d'animaux, monstres ou
 
 - ⚠️ Une fois le Compte Premium activé, le compte à rebours en haut de l'écran dans la bossbar `/bossbar` ne cessera de diminuer, même lorsque vous serez déconnecté.
 
-:::tip 💡  
-- Le décompte de votre Premium personnel est automatiquement mis en pause dès lors qu'un *Premium pour tous* est offert par un joueur.
+:::tip 💡
+La durée de votre Premium personnel est automatiquement mise en pause tant qu'un **Premium pour tous** est actif.
 :::
-- Entrez `/premium*` en jeu pour obtenir + de détail sur votre compte Premium en cours.
+
+Utilisez `/premium` en jeu pour consulter les détails de votre compte Premium en cours.
+
 ---
