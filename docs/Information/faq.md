@@ -9,6 +9,25 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ---
 
+## Premiers pas sur le serveur
+
+- Lors de la première connexion au serveur, il vous sera demandé de créer votre mot de passe de connexion. Pour cela, il vous faudra effectuer cette commande :
+    - 🔒 `/register MotDePasse MotDePasse`
+
+- Lors des prochaines connexions au serveur, il vous faudra vous connecter à votre compte en effectuant la commande suivante :
+    - 🔓 `/login MotDePasse`  
+💡 <sub>Le mot de passe ci-dessus est donné à titre d'exemple. Veuillez choisir un mot de passe différent et sécurisé.</sub>
+
+:::important ⚠️
+- **Un mot de passe doit rester unique et confidentiel. Ne divulguez jamais vos identifiants et n'utilisez jamais plusieurs fois un même mot de passe.**
+:::
+
+:::tip 💡  
+- En cas de perte ou d'oubli de votre mot de passe de connexion, rendez-vous sur le Discord VikingCraft, salon *tickets*, choisissez la raison "*J'ai un problème avec mon mot de passe*" et expliquez votre soucis en respectant la mise en forme. Une réponse du staff vous sera donnée sous peu.
+:::
+
+---
+
 ## 🌄 Distance de vue (view-distance)
 - **View-distance** : `8` dans les mondes joueurs (mondes où les joueurs jouent, construisent et explorent)
 - **View-distance** : `10` dans les mondes publics (spawn, zones PvP, monde End, zone Pinata, AFK, etc..)
@@ -237,4 +256,8 @@ Pour éviter les suppressions, évitez de concentrer trop d'animaux, monstres ou
 
 - ⚠️ Une fois le Compte Premium activé, le compte à rebours en haut de l'écran dans la bossbar `/bossbar` ne cessera de diminuer, même lorsque vous serez déconnecté.
 
+:::tip 💡  
+- Le décompte de votre Premium personnel est automatiquement mis en pause dès lors qu'un *Premium pour tous* est offert par un joueur.
+:::
+- Entrez `/premium*` en jeu pour obtenir + de détail sur votre compte Premium en cours.
 ---
