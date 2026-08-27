@@ -34,7 +34,7 @@ Voici la liste complète des commandes disponibles sur le serveur VikingCraft. C
 - **/bossbar** : Affiche ou retire les barres d'informations en haut de l'écran.
 - **/sb** : Affiche ou retire le scoreboard à droite de l'écran.
 - **/m \<pseudo\>** ou **/msg \<pseudo\>** : Envoie un message privé à un autre joueur.
-- **/mail \<pseudo\>** (message) : Envoie un mail à un autre joueur.
+- **/mail \<pseudo\> \<message\>** : Envoie un message à un autre joueur.
 
 ---
 
