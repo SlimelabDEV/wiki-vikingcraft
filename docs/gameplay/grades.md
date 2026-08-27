@@ -38,14 +38,14 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 | Commandes/Avantages          | Naufragé | Explorateur | Guerrier | Viking | Viking+         |
 |----------------------------|---------|---|---|---|----------------|
 | **Fly**                     | ❌      | ✅ | ✅ | ✅ | ✅ + au spawn   |
-| **Temps de fly nether**      | Aucun   | 1h/jour | 1h/jour | 1h/jour | 1h/jour        |
-| **Surface de claims**        | 250 000 | 500 000 | 750 000 | 1 000 000 | 1 000 000      |
+| **Temps de fly nether**     | Aucun   | 1h/jour | 1h/jour | 1h/jour | 1h/jour        |
+| **Surface de claims**       | 250 000 | 500 000 | 750 000 | 1 000 000 | 1 000 000      |
 | **/back**                   | ✅      | ✅ | ✅ | ✅ | ✅              |
 | **/craft**                  | ❌      | ✅ | ✅ | ✅ | ✅              |
 | **/ptime**                  | ❌      | ✅ | ✅ | ✅ | ✅              |
 | **/top**                    | ❌      | ✅ | ✅ | ✅ | ✅              |
 | **/hat**                    | ❌      | ✅ | ✅ | ✅ | ✅              |
-| **Récupérer spawner**       | ❌      | ✅ | ✅ | ✅ | ✅             |
+| **Récupérer spawner**       | ❌      | ✅ | ✅ | ✅ | ✅              |
 | **/ext**                    | ❌      | ❌ | ✅ | ✅ | ✅              |
 | **/feed**                   | ❌      | ❌ | ✅ | ✅ | ✅              |
 | **/skull**                  | ❌      | ❌ | ✅ | ✅ | ✅              |
@@ -55,6 +55,8 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 | **/four**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/fourall**                | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/tags**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
+| **/wet**                    | ❌      | ❌ | ❌ | ✅ | ✅              |
+| **/wetall**                 | ❌      | ❌ | ❌ | ❌ | ✅              |
 | **/repairall**              | ❌      | ❌ | ❌ | ❌ | ✅              |
 | **/anvil**                  | ❌      | ❌ | ❌ | ❌ | ✅              |
 | **/stonecutter**            | ❌      | ❌ | ❌ | ❌ | ✅              |
