@@ -28,6 +28,7 @@ Si tu découvres le serveur, commence ici :
 
 Pour bien profiter de VikingCraft, pense aussi à consulter :
 
+- 📚 [**Dex**](/docs/gameplay/dex) : collectionner tes souvenirs et échanger tes doubles.
 - 💫 [**Équipage**](/docs/gameplay/equipage) : jouer et progresser avec ton groupe.
 - 🎣 [**Pêche**](/docs/gameplay/peche) : découvrir la pêche moddée.
 - 🥇 [**Or nordique**](/docs/gameplay/ornordique) : comprendre cette ressource.
