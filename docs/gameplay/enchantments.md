@@ -648,7 +648,7 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 | Lancement I             | Épée            | Projette en l'air de 8 unités | 15s | 20% | Clic droit |
 | Lancement II            | Épée            | Projette en l'air de 9 unités | 15s | 27% | Clic droit |
 | Lancement III           | Épée            | Projette en l'air de 10 unités | 10s | 35% | Clic droit |
-| Tueur de Raid I         | Épée            | Augmente les dégâts de 80% à 120% contre les mobs de raids | X | 100% | Frapper un mob de raid (Pillager, Vindicator, Evoker, Ravager, Vex, Witch) |
+| Tueur de Raid I         | Épée, Hache     | Augmente les dégâts de 80% à 120% contre les mobs de raids | X | 100% | Frapper un mob de raid (Pillager, Vindicator, Evoker, Ravager, Vex, Witch) |
 | Renforcé Armure I       | Armure          | Chance d'éviter 1 point de perte de durabilité de l'armure | X | 5% | Prendre un coup (mob ou joueur) |
 | Renforcé Armure II      | Armure          | Chance d'éviter 1 point de perte de durabilité de l'armure | X | 10% | Prendre un coup (mob ou joueur) |
 | Renforcé Armure III     | Armure          | Chance d'éviter 1 point de perte de durabilité de l'armure | X | 15% | Prendre un coup (mob ou joueur) |
@@ -669,7 +669,7 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 | ----------------------- | --------------- | ----------- | -------- | -------------- | ---------------------- |
 | Cupidon I               | Épée            | Crée un court effet de particules 💕Coeurs💕 autour de vous | X | 100% | Sélectionner ou désélectionner l'épée en main |
 | Tranché I (Houe)        | Houe            | Casser en 3x3 (sculk, feuilles, paille, mousse, éponges sèches et mouillées) | X | 100% | Casser un bloc |
-| Tueur de Warden I       | Épée            | Augmente les dégâts contre les Wardens de 280% à 400% | X | 70% | Frapper un Warden |
+| Tueur de Warden I       | Épée, Hache     | Augmente les dégâts contre les Wardens de 280% à 400% | X | 70% | Frapper un Warden |
 | Petite Aide I           | Jambières       | Invoque des chauves-souris et des effets pour vous aider à fuir | 60s | 30% | S'active lorsque le joueur a 6 PV ou moins. |
 
 ---
