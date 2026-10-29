@@ -91,8 +91,8 @@ Voici la liste complète des commandes disponibles sur le serveur VikingCraft. C
 - **#ec** : Affiche ton enderchest.
 - **#bal** : Affiche ton argent.
 - **#sk** : Affiche tes compétences.
-- **#guild** : Affiche le nom de ton équipage.
-- **#gbank** : Affiche l'argent disponible dans la banque de ton équipage.
+- **#guild** : Affiche le nom de ta guilde.
+- **#gbank** : Affiche l'argent disponible dans la banque de ta guilde.
 - **#c** : Affiche ton solde de couronnes.
 
 ---
@@ -119,34 +119,34 @@ Voici la liste complète des commandes disponibles sur le serveur VikingCraft. C
 
 ---
 
-## Commandes Équipage 👥
-- **/e create** : Créer un équipage.
-- **/e delete** : Supprime votre équipage.
-- **/e prefix &lt;nom&gt;** : Change le préfixe d’équipage.
-- **/e rename &lt;nom&gt;** : Change le nom d’équipage visible dans le tchat.
-- **/e sethome** : Définit le home de l’équipage.
-- **/e delhome** : Supprime le home d’équipage.
-- **/e home** : Téléporte au home de l’équipage.
-- **/e invite &lt;joueur&gt;** : Invite un joueur dans votre équipage.
-- **/e accept &lt;joueur&gt;** : Accepte une invitation d’équipage.
-- **/e leave** : Quitte votre équipage actuel.
-- **/e confirm** : Confirme une action qui nécessite une validation.
-- **/e info** : Affiche les informations d’équipage.
-- **/e boot &lt;joueur&gt;** : Kick un joueur de l’équipage.
-- **/e list** : Affiche la liste des équipages.
-- **/e members** : Ouvre le menu des membres de l’équipage.
-- **/e promote** : Promouvoir un membre de l’équipage.
-- **/e demote** : Rétrograder un membre de l’équipage.
-- **/e status** : Change l’équipage en public ou privé.
-- **/e gc** : Active le chat d’équipage.
-- **/e ac** : Active le chat d’alliance d’équipage.
-- **/e vault** : Ouvre le coffre d’équipage.
-- **/e buff** : Ouvre le menu buff.
-- **/e bank balance** : Affiche l'argent dans la banque d’équipage.
-- **/e bank withdraw &lt;nombre&gt;** : Retirer de l'argent de la banque d’équipage.
-- **/e bank deposit &lt;nombre&gt;** : Déposer de l'argent dans la banque d’équipage.
-- **/e upgrade** : Améliore votre équipage.
-- **/e transfer \<pseudo\>** : Transfère la propriété de l'équipage au joueur souhaité.
+## Commandes Guildes 🛡️
+Tous les détails sont sur la page [Guildes](/docs/gameplay/guilde).
+
+- **/g** : Ouvre le menu de votre guilde.
+- **/g create &lt;nom&gt; [préfixe]** : Fonde une guilde pour 1 000 000 $.
+- **/g confirm** ou **/g cancel** : Confirme ou annule l'action en attente.
+- **/g invite &lt;joueur&gt;** : Invite un joueur dans votre guilde.
+- **/g uninvite &lt;joueur&gt;** : Retire une invitation.
+- **/g accept &lt;guilde&gt;** ou **/g decline &lt;guilde&gt;** : Accepte ou refuse une invitation.
+- **/g leave** : Quitte votre guilde.
+- **/g promote &lt;joueur&gt;** ou **/g demote &lt;joueur&gt;** : Change le rôle d'un membre.
+- **/g boot &lt;joueur&gt;** : Expulse un membre.
+- **/g transfer &lt;joueur&gt;** : Cède la direction de la guilde.
+- **/g rename &lt;nom&gt;** : Renomme la guilde.
+- **/g prefix &lt;préfixe&gt;** : Change le préfixe de la guilde.
+- **/g status** : Rend la guilde publique ou privée.
+- **/g upgrade** : Débloque le palier suivant.
+- **/g bank balance** : Affiche l'argent de la banque de guilde.
+- **/g bank deposit &lt;montant&gt;** : Dépose de l'argent dans la banque de guilde.
+- **/g bank withdraw &lt;montant&gt;** : Retire de l'argent de la banque de guilde.
+- **/g vault [page]** : Ouvre le coffre de guilde.
+- **/g sethome**, **/g home** ou **/g delhome** : Place, rejoint ou supprime le home de guilde.
+- **/g ally add|accept|decline|remove|list [guilde]** : Gère les alliances.
+- **/g gc [message]** : Parle dans le chat de guilde, ou y bascule.
+- **/g ac [message]** : Parle dans le chat d'alliance, ou y bascule.
+- **/g list** : Ouvre le classement des guildes.
+- **/g info &lt;guilde&gt;** : Affiche la fiche d'une guilde.
+- **/g delete** : Dissout la guilde.
 
 ---
 

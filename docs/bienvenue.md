@@ -68,7 +68,7 @@ Rejoignez aussi la communauté sur le **Discord** : [**discord.gg/vikingcraft**]
 
 ### 🤝 Jouer ensemble
 
-- 💫 [**Équipage**](/docs/gameplay/equipage) : jouer et progresser avec votre groupe.
+- 💫 [**Guilde**](/docs/gameplay/guilde) : jouer et progresser avec votre groupe.
 - 💘 [**Mariage**](/docs/gameplay/marry) : vous unir avec un autre joueur.
 - 🔒 [**Privates**](/docs/gameplay/private) : protéger vos coffres et vos portes.
 - 📣 [**Pub**](/docs/gameplay/pub) : faire la promotion de votre market ou de votre projet.
