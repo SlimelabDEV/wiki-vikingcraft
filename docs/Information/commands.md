@@ -162,14 +162,24 @@ Tous les détails sont sur la page [Guildes](/docs/gameplay/guilde).
 
 ---
 
-## Commandes de débug 🪲
-- **/edebug** (en tenant l'item en main) : Permet de résoudre des bugs présents sur un item, des poussières magiques, des livres d'enchantements customs non fonctionnels, des runes protectrices et plus encore.
-
-:::tip 💡
-La commande `/edebug` peut ne pas résoudre tous les soucis de l'item. Dans ce cas, il est nécessaire d'ouvrir un ticket pour expliquer le problème au staff. Un remboursement ou un échange pourra être effectué.
-:::
+## Commandes Diverses 🎲
+- **/battlepass** ou **/bp** : Ouvre le menu du BattlePass en cours (visualiser l'avancée et récupérer les récompenses débloquées).
+- **/cosmetique** ou **/cosmetiques** ou **/cos** : Ouvre le menu pour acheter ou équiper les différents cosmétiques.
+- **/pet** ou **/pets** : Afficher et faire apparaitre les familiers.
+- **/daily** : Ouvre le menu pour récupérer sa récompense journalière (Se réinitialise chaque jour à minuit)
+- **/pack download** : Charge ou recharge le ressource pack du serveur en cas de problème de textures.
+- **/enchantements** ou **/enchant** : Affiche les différents enchantements customs et leurs catégories respectives.
+- **/emoji** ou **/e** : Ouvre le livre regroupant tous les émojis.
 
 ---
 
 ## Commande du compte Premium ⭐
 - **/premium** : Affiche les informations liées au compte Premium actif.
+- **/fc** ou **/fcraft** : Ouvre le menu de Craft Rapide.
+- **/skin** : Affiche les différentes commandes utilisables pour utiliser différents skin ou utiliser celui d'un joueur.
+- **/condense** : Permet de condenser certains minerais/matériaux en blocs contenus dans l'inventaire.
+- **/tete** ou **/hdb** : Ouvre le menu pour récupérer d'innombrables têtes en tous genres.
+- **/tete search \<pseudo\>** : Permet de récupérer la tête du joueur souhaité.
+- **/bottlexp** : Affiche les commandes utilisables pour transférer toute son expérience en une fiole ou en plusieurs fioles d'expérience vanilla.
+- **/autotree** : Active ou désactive l'avantage "Couper les arbres en un coup".
+- **/autotools** : Active ou désactive l'avantage "Outil automatique".
