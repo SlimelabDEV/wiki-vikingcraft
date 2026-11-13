@@ -64,7 +64,6 @@ Rejoignez aussi la communauté sur le **Discord** : [**discord.gg/vikingcraft**]
 - 🏡 [**Hôtel des ventes**](/docs/gameplay/hdv) : acheter et vendre des objets aux autres joueurs.
 - 🛒 [**Markets**](/docs/gameplay/market) : créer votre boutique sur un coffre et trouver les meilleures offres.
 - 📈 [**Maisons & contrats**](/docs/gameplay/maisons) : participer aux contrats et toucher des dividendes.
-- 🥇 [**Or nordique**](/docs/gameplay/ornordique) : la seconde monnaie, dont le prix dépend des joueurs.
 
 ### 🤝 Jouer ensemble
 
